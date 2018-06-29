@@ -6,7 +6,7 @@
     "prefer-stable": true,
     "minimum-stability": "dev",
     "require": {
-        "elgg/elgg": "3.*",
+        "elgg/elgg": "3.x",
         "hypejunction/hypeactivity": "~1.0",
         "hypejunction/hypeajax": "~1.0",
         "hypejunction/hypeattachments": "~3.0",
