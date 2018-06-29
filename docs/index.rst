@@ -46,6 +46,14 @@ Build modern social media applications with an ever-growing collection of high-q
    plugins/hypeSlug/index
    plugins/hypeStash/index
    plugins/hypeStaticPages/index
+   plugins/hypeStripePayments/index
+   plugins/hypeStripeSubscriptions/index
+   plugins/hypeSubscriptions/index
+   plugins/hypeTime/index
+   plugins/hypeTrees/index
+   plugins/hypeVue/index
+   plugins/hypeWall/index
+
 
 
 
