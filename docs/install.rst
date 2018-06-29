@@ -19,6 +19,17 @@ To use composer, you need to have an active subscription that gives you access t
    composer config --global --auth http-basic.repo.packagist.com <username> <token>
 
 
+Update your ``composer.json`` to include:
+
+.. code::
+
+   "repositories": [
+       {
+           "type": "composer",
+           "url": "https://repo.packagist.com/hypejunction/"
+       }
+   ]
+
 New Project
 -----------
 
@@ -35,6 +46,8 @@ The easiest way to create an Elgg project with hypeJunction plugins installed is
    composer install
    composer install # 2nd call is currently required
 
+   ./elgg-cli install
+   ./elgg-cli hypejunction:install
 
 Existing Project
 ----------------
