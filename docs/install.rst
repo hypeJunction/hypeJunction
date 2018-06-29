@@ -1,6 +1,11 @@
 Installation
 ============
 
+Using ZIP files
+~~~~~~~~~~~~~~~
+
+Distribution (.zip) plugin files can be downloaded from `hypeJunction website`_. To add a plugin, unzip it into your ``/mod`` directory, making sure the directories are not nested, and that ``manifest.xml`` is in the root of the plugin folder.
+
 Using Composer
 ~~~~~~~~~~~~~~
 
@@ -9,13 +14,13 @@ To use composer, you need to have an active subscription that gives you access t
 .. code::
 
    ## Add your Private Packagist credentials to global config
-   ## You can find your username and token by logging into https://packagist.com/
+   ## You can find your username and token by logging into https://hypejunction.com/ and navigating your settings page.
 
    composer config --global --auth http-basic.repo.packagist.com <username> <token>
 
 
 New Project
-~~~~~~~~~~~
+-----------
 
 The easiest way to create an Elgg project with hypeJunction plugins installed is by running the following commands.
 
@@ -32,7 +37,7 @@ The easiest way to create an Elgg project with hypeJunction plugins installed is
 
 
 Existing Project
-~~~~~~~~~~~~~~~~
+----------------
 
 You can add plugins to an existing project, using
 
@@ -46,4 +51,5 @@ Additional Info
 
 Learn about installation in `Elgg docs`_.
 
+.. _hypeJunction website: https://hypejunction.com/
 .. _Elgg docs: https://learn.elgg.org/
