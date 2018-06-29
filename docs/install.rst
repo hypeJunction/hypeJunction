@@ -30,6 +30,7 @@ Update your ``composer.json`` to include:
        }
    ]
 
+
 New Project
 -----------
 
@@ -47,7 +48,10 @@ The easiest way to create an Elgg project with hypeJunction plugins installed is
    composer install # 2nd call is currently required
 
    ./elgg-cli install
+
+   ## Login as an administrator and enable hypeCli plugin, then run to enable all plugins
    ./elgg-cli hypejunction:install
+
 
 Existing Project
 ----------------
