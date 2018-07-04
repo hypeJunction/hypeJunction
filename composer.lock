@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "38ba95463242ebf67c9669ae983a2da0",
+    "content-hash": "17c0fcc7209af2336557a72c9e67b990",
     "packages": [
         {
             "name": "bjeavons/zxcvbn-php",
@@ -2319,16 +2319,16 @@
         },
         {
             "name": "hypejunction/hypecli",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypeCli.git",
-                "reference": "1a92fc51eaf62152e4fa62d886518e70bce0554b"
+                "reference": "e151f05a2fcaf49e0ae5b2abeaa8160f619f05c3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeCli/zipball/1a92fc51eaf62152e4fa62d886518e70bce0554b",
-                "reference": "1a92fc51eaf62152e4fa62d886518e70bce0554b",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeCli/zipball/e151f05a2fcaf49e0ae5b2abeaa8160f619f05c3",
+                "reference": "e151f05a2fcaf49e0ae5b2abeaa8160f619f05c3",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -2369,10 +2369,10 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeCli/tree/master",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeCli/tree/1.0.2",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeCli/issues"
             },
-            "time": "2018-06-29T18:40:23+00:00"
+            "time": "2018-07-04T16:44:37+00:00"
         },
         {
             "name": "hypejunction/hypecountries",
@@ -3978,6 +3978,62 @@
                 "shutdown"
             ],
             "time": "2018-04-20T08:01:10+00:00"
+        },
+        {
+            "name": "hypejunction/hypeslider",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:hypejunctionpro/Elgg3-hypeSlider.git",
+                "reference": "d55677fb58fa81e8397f5b85e2cdf4fc5630015d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeSlider/zipball/d55677fb58fa81e8397f5b85e2cdf4fc5630015d",
+                "reference": "d55677fb58fa81e8397f5b85e2cdf4fc5630015d",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "require": {
+                "bower-asset/slick-carousel": "^1.8",
+                "composer/installers": "~1.0",
+                "php": ">=7.0"
+            },
+            "type": "elgg-plugin",
+            "extra": {
+                "installer-name": "hypeSlider"
+            },
+            "autoload": {
+                "psr-0": {
+                    "": "classes/"
+                }
+            },
+            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "Ismayil Khayredinov",
+                    "email": "info@hypejunction.com"
+                }
+            ],
+            "description": "Content sliders",
+            "homepage": "http://hypejunction.com",
+            "keywords": [
+                "elgg",
+                "plugin"
+            ],
+            "support": {
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeSlider/tree/1.0.0",
+                "issues": "https://github.com/hypejunctionpro/Elgg3-hypeSlider/issues"
+            },
+            "time": "2018-07-04T16:53:55+00:00"
         },
         {
             "name": "hypejunction/hypeslug",
