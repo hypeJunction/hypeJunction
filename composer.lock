@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "17c0fcc7209af2336557a72c9e67b990",
+    "content-hash": "b01e8283ba04e7f419d039d3daf58a08",
     "packages": [
         {
             "name": "bjeavons/zxcvbn-php",
@@ -280,7 +280,7 @@
             "version": "2.8.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:guillaumepotier/Parsley.js.git",
+                "url": "https://github.com/guillaumepotier/Parsley.js.git",
                 "reference": "c611ed5ac58e99791e5b91257950df72a461af07"
             },
             "dist": {
@@ -1920,16 +1920,16 @@
         },
         {
             "name": "hypejunction/hypeajax",
-            "version": "1.1.0",
+            "version": "1.2.0",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypeAjax.git",
-                "reference": "f5c8fe1f41c63ab062a2b9a508eaa5f4cdc99acb"
+                "reference": "c42332afa11cc6d68d535005b0355d84ec522b9e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeAjax/zipball/f5c8fe1f41c63ab062a2b9a508eaa5f4cdc99acb",
-                "reference": "f5c8fe1f41c63ab062a2b9a508eaa5f4cdc99acb",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeAjax/zipball/c42332afa11cc6d68d535005b0355d84ec522b9e",
+                "reference": "c42332afa11cc6d68d535005b0355d84ec522b9e",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -1970,10 +1970,10 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeAjax/tree/1.1.0",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeAjax/tree/1.2.0",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeAjax/issues"
             },
-            "time": "2018-06-29T18:13:43+00:00"
+            "time": "2018-07-06T13:19:26+00:00"
         },
         {
             "name": "hypejunction/hypeattachments",
@@ -2150,16 +2150,16 @@
         },
         {
             "name": "hypejunction/hypebraintreepayments",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypeBraintreePayments.git",
-                "reference": "e669305e3e2fd6252635c2af30e203738cf9d182"
+                "reference": "49af002b9f35e1f0ac9cc401274389a1a8e49af6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeBraintreePayments/zipball/e669305e3e2fd6252635c2af30e203738cf9d182",
-                "reference": "e669305e3e2fd6252635c2af30e203738cf9d182",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeBraintreePayments/zipball/49af002b9f35e1f0ac9cc401274389a1a8e49af6",
+                "reference": "49af002b9f35e1f0ac9cc401274389a1a8e49af6",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -2201,10 +2201,10 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeBraintreePayments/tree/1.1.0",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeBraintreePayments/tree/1.1.1",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeBraintreePayments/issues"
             },
-            "time": "2018-06-29T18:28:52+00:00"
+            "time": "2018-07-06T13:21:02+00:00"
         },
         {
             "name": "hypejunction/hypebraintreesubscriptions",
@@ -2319,16 +2319,16 @@
         },
         {
             "name": "hypejunction/hypecli",
-            "version": "1.0.2",
+            "version": "1.0.3",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypeCli.git",
-                "reference": "e151f05a2fcaf49e0ae5b2abeaa8160f619f05c3"
+                "reference": "bb31d390e46f0d3c95f39792ee2e4b98d76da93b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeCli/zipball/e151f05a2fcaf49e0ae5b2abeaa8160f619f05c3",
-                "reference": "e151f05a2fcaf49e0ae5b2abeaa8160f619f05c3",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeCli/zipball/bb31d390e46f0d3c95f39792ee2e4b98d76da93b",
+                "reference": "bb31d390e46f0d3c95f39792ee2e4b98d76da93b",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -2369,10 +2369,10 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeCli/tree/1.0.2",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeCli/tree/1.0.3",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeCli/issues"
             },
-            "time": "2018-07-04T16:44:37+00:00"
+            "time": "2018-07-08T18:17:46+00:00"
         },
         {
             "name": "hypejunction/hypecountries",
@@ -3124,61 +3124,6 @@
             "time": "2018-06-29T19:22:50+00:00"
         },
         {
-            "name": "hypejunction/hypemarkup",
-            "version": "1.0.0",
-            "source": {
-                "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeMarkup.git",
-                "reference": "e747baa02dfb74e1135683cc5fd4bd07a5bc0e3b"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeMarkup/zipball/e747baa02dfb74e1135683cc5fd4bd07a5bc0e3b",
-                "reference": "e747baa02dfb74e1135683cc5fd4bd07a5bc0e3b",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
-            },
-            "require": {
-                "composer/installers": "~1.0",
-                "php": ">=7.0"
-            },
-            "type": "elgg-plugin",
-            "extra": {
-                "installer-name": "hypeMarkup"
-            },
-            "autoload": {
-                "psr-0": {
-                    "": "classes/"
-                }
-            },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
-            "license": [
-                "proprietary"
-            ],
-            "authors": [
-                {
-                    "name": "Ismayil Khayredinov",
-                    "email": "info@hypejunction.com"
-                }
-            ],
-            "description": "Helpers for working with HTML markup",
-            "homepage": "http://hypejunction.com",
-            "keywords": [
-                "elgg",
-                "plugin"
-            ],
-            "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeMarkup/tree/1.0.0",
-                "issues": "https://github.com/hypejunctionpro/Elgg3-hypeMarkup/issues"
-            },
-            "time": "2018-07-04T16:21:50+00:00"
-        },
-        {
             "name": "hypejunction/hypemedia",
             "version": "1.3.0",
             "source": {
@@ -3296,16 +3241,16 @@
         },
         {
             "name": "hypejunction/hypemenus",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypeMenus.git",
-                "reference": "a7a39c9bbed49bf40eb708fd9c1fdb8ae109d3b8"
+                "reference": "581192c3d04ef0d89e87199aab8a2bf7776de6fe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeMenus/zipball/a7a39c9bbed49bf40eb708fd9c1fdb8ae109d3b8",
-                "reference": "a7a39c9bbed49bf40eb708fd9c1fdb8ae109d3b8",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeMenus/zipball/581192c3d04ef0d89e87199aab8a2bf7776de6fe",
+                "reference": "581192c3d04ef0d89e87199aab8a2bf7776de6fe",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -3344,10 +3289,10 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeMenus/tree/1.0.1",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeMenus/tree/1.0.2",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeMenus/issues"
             },
-            "time": "2018-07-03T12:00:34+00:00"
+            "time": "2018-07-07T12:53:59+00:00"
         },
         {
             "name": "hypejunction/hypemoderator",
@@ -3473,16 +3418,16 @@
         },
         {
             "name": "hypejunction/hypepayments",
-            "version": "3.1.0",
+            "version": "3.1.1",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypePayments.git",
-                "reference": "12d662f390bd4d1fb7f50aad3dbf29e5674d3c4f"
+                "reference": "a632559f2fef66f401f74668d3ddf63d86fb5b0b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypePayments/zipball/12d662f390bd4d1fb7f50aad3dbf29e5674d3c4f",
-                "reference": "12d662f390bd4d1fb7f50aad3dbf29e5674d3c4f",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypePayments/zipball/a632559f2fef66f401f74668d3ddf63d86fb5b0b",
+                "reference": "a632559f2fef66f401f74668d3ddf63d86fb5b0b",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -3524,23 +3469,23 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypePayments/tree/3.1.0",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypePayments/tree/3.1.1",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypePayments/issues"
             },
-            "time": "2018-06-29T19:43:00+00:00"
+            "time": "2018-07-07T13:40:11+00:00"
         },
         {
             "name": "hypejunction/hypepaypalpayments",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypePaypalPayments.git",
-                "reference": "c3ea9a14dd3c210691ed11eb06ddb8d18f03204c"
+                "reference": "99f93062fcb7691aacce32850ebb9cb622c25105"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypePaypalPayments/zipball/c3ea9a14dd3c210691ed11eb06ddb8d18f03204c",
-                "reference": "c3ea9a14dd3c210691ed11eb06ddb8d18f03204c",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypePaypalPayments/zipball/99f93062fcb7691aacce32850ebb9cb622c25105",
+                "reference": "99f93062fcb7691aacce32850ebb9cb622c25105",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -3583,10 +3528,10 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypePaypalPayments/tree/1.1.0",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypePaypalPayments/tree/1.1.1",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypePaypalPayments/issues"
             },
-            "time": "2018-06-29T19:44:34+00:00"
+            "time": "2018-07-06T13:24:01+00:00"
         },
         {
             "name": "hypejunction/hypepaypalsubscriptions",
@@ -3703,16 +3648,16 @@
         },
         {
             "name": "hypejunction/hypepost",
-            "version": "1.3.0",
+            "version": "1.4.1",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypePost.git",
-                "reference": "2d94fc11d9ba565ae33b4b23fdaf9f85db94af1b"
+                "reference": "46b2d951fa42aec36a757328ccc004c16841e706"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypePost/zipball/2d94fc11d9ba565ae33b4b23fdaf9f85db94af1b",
-                "reference": "2d94fc11d9ba565ae33b4b23fdaf9f85db94af1b",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypePost/zipball/46b2d951fa42aec36a757328ccc004c16841e706",
+                "reference": "46b2d951fa42aec36a757328ccc004c16841e706",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -3753,23 +3698,23 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypePost/tree/1.3.0",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypePost/tree/master",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypePost/issues"
             },
-            "time": "2018-06-29T19:48:12+00:00"
+            "time": "2018-07-08T18:17:08+00:00"
         },
         {
             "name": "hypejunction/hypeprofile",
-            "version": "1.2.0",
+            "version": "1.2.1",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypeProfile.git",
-                "reference": "e6d78b131cda44c48f7ab1e38f9c0b90fe7fe516"
+                "reference": "d611a1f200b091c12bd9fae34b77f28a8cc3ca8f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeProfile/zipball/e6d78b131cda44c48f7ab1e38f9c0b90fe7fe516",
-                "reference": "e6d78b131cda44c48f7ab1e38f9c0b90fe7fe516",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeProfile/zipball/d611a1f200b091c12bd9fae34b77f28a8cc3ca8f",
+                "reference": "d611a1f200b091c12bd9fae34b77f28a8cc3ca8f",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -3807,10 +3752,10 @@
                 "users"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeProfile/tree/1.2.0",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeProfile/tree/1.2.1",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeProfile/issues"
             },
-            "time": "2018-06-29T19:51:27+00:00"
+            "time": "2018-07-08T18:15:38+00:00"
         },
         {
             "name": "hypejunction/hypescraper",
@@ -4208,16 +4153,16 @@
         },
         {
             "name": "hypejunction/hypestripepayments",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypeStripePayments.git",
-                "reference": "36bda32b96fafe012d6c8ec1e2bfc5330b0ab870"
+                "reference": "a52c6f261c3dff756f965255a54a100fc1e206db"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeStripePayments/zipball/36bda32b96fafe012d6c8ec1e2bfc5330b0ab870",
-                "reference": "36bda32b96fafe012d6c8ec1e2bfc5330b0ab870",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeStripePayments/zipball/a52c6f261c3dff756f965255a54a100fc1e206db",
+                "reference": "a52c6f261c3dff756f965255a54a100fc1e206db",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -4262,7 +4207,7 @@
                 "source": "https://github.com/hypejunctionpro/Elgg3-hypeStripePayments/tree/master",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeStripePayments/issues"
             },
-            "time": "2018-06-29T20:11:10+00:00"
+            "time": "2018-07-06T13:22:22+00:00"
         },
         {
             "name": "hypejunction/hypestripesubscriptions",
@@ -4541,16 +4486,16 @@
         },
         {
             "name": "hypejunction/hypetwig",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypeTwig.git",
-                "reference": "9955106c4fee67a1a39d502660e6727de8187fd4"
+                "reference": "6f8ed65d2feff6e6f7e959af2b3aa806a665b677"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeTwig/zipball/9955106c4fee67a1a39d502660e6727de8187fd4",
-                "reference": "9955106c4fee67a1a39d502660e6727de8187fd4",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeTwig/zipball/6f8ed65d2feff6e6f7e959af2b3aa806a665b677",
+                "reference": "6f8ed65d2feff6e6f7e959af2b3aa806a665b677",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -4595,7 +4540,7 @@
                 "source": "https://github.com/hypejunctionpro/Elgg3-hypeTwig/tree/master",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeTwig/issues"
             },
-            "time": "2018-07-04T16:07:35+00:00"
+            "time": "2018-07-07T12:13:16+00:00"
         },
         {
             "name": "hypejunction/hypevue",
@@ -5612,16 +5557,16 @@
         },
         {
             "name": "paragonie/random_compat",
-            "version": "v2.0.15",
+            "version": "v2.0.17",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/random_compat.git",
-                "reference": "10bcb46e8f3d365170f6de9d05245aa066b81f09"
+                "reference": "29af24f25bab834fcbb38ad2a69fa93b867e070d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/10bcb46e8f3d365170f6de9d05245aa066b81f09",
-                "reference": "10bcb46e8f3d365170f6de9d05245aa066b81f09",
+                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/29af24f25bab834fcbb38ad2a69fa93b867e070d",
+                "reference": "29af24f25bab834fcbb38ad2a69fa93b867e070d",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -5663,7 +5608,7 @@
                 "pseudorandom",
                 "random"
             ],
-            "time": "2018-06-08T15:26:40+00:00"
+            "time": "2018-07-04T16:31:37+00:00"
         },
         {
             "name": "paypal/rest-api-sdk-php",
@@ -6912,12 +6857,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "5c802c6300dca269edde06c6ae8c7eb561de3176"
+                "reference": "0253937ef2720f45fbe421e3ba486587b3080c35"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/5c802c6300dca269edde06c6ae8c7eb561de3176",
-                "reference": "5c802c6300dca269edde06c6ae8c7eb561de3176",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/0253937ef2720f45fbe421e3ba486587b3080c35",
+                "reference": "0253937ef2720f45fbe421e3ba486587b3080c35",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -6974,7 +6919,7 @@
                 "laravel/socialite": ">=1,<1.0.99|>=2,<2.0.10",
                 "magento/magento1ce": ">=1.5.0.1,<1.9.3.2",
                 "magento/magento1ee": ">=1.9,<1.14.3.2",
-                "magento/magento2ce": ">=2,<2.3",
+                "magento/product-community-edition": ">=2,<2.2.5",
                 "monolog/monolog": ">=1.8,<1.12",
                 "namshi/jose": "<2.2",
                 "onelogin/php-saml": "<2.10.4",
@@ -7077,7 +7022,7 @@
                 }
             ],
             "description": "Prevents installation of composer packages with known security vulnerabilities: no API, simply require it",
-            "time": "2018-07-03T10:42:36+00:00"
+            "time": "2018-07-04T05:48:21+00:00"
         },
         {
             "name": "robmorgan/phinx",
