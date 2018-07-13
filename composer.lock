@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b01e8283ba04e7f419d039d3daf58a08",
+    "content-hash": "a5f4ab8c23a2d6f301634c639b415474",
     "packages": [
         {
             "name": "bjeavons/zxcvbn-php",
@@ -56,45 +56,6 @@
                 "zxcvbn"
             ],
             "time": "2017-01-06T15:43:33+00:00"
-        },
-        {
-            "name": "bower-asset/at.js",
-            "version": "v1.5.4",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/ichord/At.js.git",
-                "reference": "801c87dc804e37f134def2055b80cbc81ac98652"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/ichord/At.js/zipball/801c87dc804e37f134def2055b80cbc81ac98652",
-                "reference": "801c87dc804e37f134def2055b80cbc81ac98652",
-                "shasum": null
-            },
-            "require": {
-                "bower-asset/caret.js": "~0.2.2",
-                "bower-asset/jquery": ">=1.7.0"
-            },
-            "type": "bower-asset"
-        },
-        {
-            "name": "bower-asset/caret.js",
-            "version": "v0.2.2",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/ichord/Caret.js.git",
-                "reference": "2af4966a6bfb61d23eb6da6031add29bb3b14bcb"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/ichord/Caret.js/zipball/2af4966a6bfb61d23eb6da6031add29bb3b14bcb",
-                "reference": "2af4966a6bfb61d23eb6da6031add29bb3b14bcb",
-                "shasum": null
-            },
-            "require": {
-                "bower-asset/jquery": ">=1.7.0"
-            },
-            "type": "bower-asset"
         },
         {
             "name": "bower-asset/fontawesome",
@@ -1317,12 +1278,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Elgg/Elgg.git",
-                "reference": "7526150dabf9800ec280badd820bcde14038a58a"
+                "reference": "92487765fb99422d5d3025f44b5d26eddda873b5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Elgg/Elgg/zipball/7526150dabf9800ec280badd820bcde14038a58a",
-                "reference": "7526150dabf9800ec280badd820bcde14038a58a",
+                "url": "https://api.github.com/repos/Elgg/Elgg/zipball/92487765fb99422d5d3025f44b5d26eddda873b5",
+                "reference": "92487765fb99422d5d3025f44b5d26eddda873b5",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -1402,7 +1363,7 @@
                 "GPL-2.0-only"
             ],
             "description": "Elgg is an award-winning social networking engine, delivering the building blocks that enable businesses, schools, universities and associations to create their own fully-featured social networks and applications.",
-            "time": "2018-07-04T06:14:53+00:00"
+            "time": "2018-07-13T07:15:05+00:00"
         },
         {
             "name": "elgg/login_as",
@@ -1450,16 +1411,16 @@
         },
         {
             "name": "fzaninotto/faker",
-            "version": "v1.7.1",
+            "version": "v1.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/fzaninotto/Faker.git",
-                "reference": "d3ed4cc37051c1ca52d22d76b437d14809fc7e0d"
+                "reference": "f72816b43e74063c8b10357394b6bba8cb1c10de"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fzaninotto/Faker/zipball/d3ed4cc37051c1ca52d22d76b437d14809fc7e0d",
-                "reference": "d3ed4cc37051c1ca52d22d76b437d14809fc7e0d",
+                "url": "https://api.github.com/repos/fzaninotto/Faker/zipball/f72816b43e74063c8b10357394b6bba8cb1c10de",
+                "reference": "f72816b43e74063c8b10357394b6bba8cb1c10de",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -1473,7 +1434,7 @@
             },
             "require-dev": {
                 "ext-intl": "*",
-                "phpunit/phpunit": "^4.0 || ^5.0",
+                "phpunit/phpunit": "^4.8.35 || ^5.7",
                 "squizlabs/php_codesniffer": "^1.5"
             },
             "type": "library",
@@ -1502,7 +1463,7 @@
                 "faker",
                 "fixtures"
             ],
-            "time": "2017-08-15T16:48:10+00:00"
+            "time": "2018-07-12T10:23:15+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -2318,6 +2279,64 @@
             "time": "2018-06-29T18:34:49+00:00"
         },
         {
+            "name": "hypejunction/hypecaptcha",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:hypejunctionpro/Elgg3-hypeCaptcha.git",
+                "reference": "5ef59b2e4998a51f7cdea08289e76e7599550205"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeCaptcha/zipball/5ef59b2e4998a51f7cdea08289e76e7599550205",
+                "reference": "5ef59b2e4998a51f7cdea08289e76e7599550205",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "require": {
+                "composer/installers": "~1.0",
+                "guzzlehttp/guzzle": "^6.3",
+                "php": ">=7.0"
+            },
+            "type": "elgg-plugin",
+            "extra": {
+                "installer-name": "hypeCaptcha"
+            },
+            "autoload": {
+                "psr-0": {
+                    "": "classes/"
+                }
+            },
+            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "Ismayil Khayredinov",
+                    "email": "info@hypejunction.com"
+                }
+            ],
+            "description": "Captcha challenge",
+            "homepage": "http://hypejunction.com",
+            "keywords": [
+                "captcha",
+                "elgg",
+                "forms",
+                "plugin"
+            ],
+            "support": {
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeCaptcha/tree/master",
+                "issues": "https://github.com/hypejunctionpro/Elgg3-hypeCaptcha/issues"
+            },
+            "time": "2018-07-13T08:54:35+00:00"
+        },
+        {
             "name": "hypejunction/hypecli",
             "version": "1.0.3",
             "source": {
@@ -2599,16 +2618,16 @@
         },
         {
             "name": "hypejunction/hypedropzone",
-            "version": "6.1.0",
+            "version": "6.1.1",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypeDropzone.git",
-                "reference": "b62fec34e05ca4065d93d966cde51fae24fca723"
+                "reference": "e23ddaff16087820c0602dde257bbfaffd4c1a2d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeDropzone/zipball/b62fec34e05ca4065d93d966cde51fae24fca723",
-                "reference": "b62fec34e05ca4065d93d966cde51fae24fca723",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeDropzone/zipball/e23ddaff16087820c0602dde257bbfaffd4c1a2d",
+                "reference": "e23ddaff16087820c0602dde257bbfaffd4c1a2d",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -2619,7 +2638,7 @@
             },
             "require": {
                 "composer/installers": "~1.0",
-                "npm-asset/dropzone": "~5.4",
+                "npm-asset/dropzone": "<=5.4.0 || >5.5.0",
                 "php": ">=5.5"
             },
             "type": "elgg-plugin",
@@ -2651,10 +2670,10 @@
                 "upload"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeDropzone/tree/6.1.0",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeDropzone/tree/6.1.1",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeDropzone/issues"
             },
-            "time": "2018-06-29T19:01:39+00:00"
+            "time": "2018-07-09T14:17:45+00:00"
         },
         {
             "name": "hypejunction/hypeembed",
@@ -2944,16 +2963,16 @@
         },
         {
             "name": "hypejunction/hypeinvite",
-            "version": "2.2.0",
+            "version": "2.2.1",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypeInvite.git",
-                "reference": "dcc12d7daf2c785b4a524902b2b6f75113ddaeab"
+                "reference": "16caf9f5c65df645ee4d95533d6bf72fbb321440"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeInvite/zipball/dcc12d7daf2c785b4a524902b2b6f75113ddaeab",
-                "reference": "dcc12d7daf2c785b4a524902b2b6f75113ddaeab",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeInvite/zipball/16caf9f5c65df645ee4d95533d6bf72fbb321440",
+                "reference": "16caf9f5c65df645ee4d95533d6bf72fbb321440",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -2995,10 +3014,10 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeInvite/tree/2.2.0",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeInvite/tree/2.2.1",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeInvite/issues"
             },
-            "time": "2018-06-29T19:20:16+00:00"
+            "time": "2018-07-13T08:46:32+00:00"
         },
         {
             "name": "hypejunction/hypelists",
@@ -3185,16 +3204,16 @@
         },
         {
             "name": "hypejunction/hypementions",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypeMentions.git",
-                "reference": "b9110bc113f4d42f83584bc0d7e643fd6a0abf3f"
+                "reference": "8a3c772018cb5fdf78ce8260f77139c3ec2721a5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeMentions/zipball/b9110bc113f4d42f83584bc0d7e643fd6a0abf3f",
-                "reference": "b9110bc113f4d42f83584bc0d7e643fd6a0abf3f",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeMentions/zipball/8a3c772018cb5fdf78ce8260f77139c3ec2721a5",
+                "reference": "8a3c772018cb5fdf78ce8260f77139c3ec2721a5",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -3204,8 +3223,9 @@
                 ]
             },
             "require": {
-                "bower-asset/at.js": "^1.5",
                 "composer/installers": "~1.0",
+                "npm-asset/at.js": "^1.5",
+                "npm-asset/jquery.caret": "^0.3.1",
                 "php-extended/php-emoji-cheat-sheet": "^1.0"
             },
             "type": "elgg-plugin",
@@ -3234,23 +3254,23 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeMentions/tree/master",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeMentions/tree/1.1.1",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeMentions/issues"
             },
-            "time": "2018-06-29T19:30:12+00:00"
+            "time": "2018-07-09T14:14:55+00:00"
         },
         {
             "name": "hypejunction/hypemenus",
-            "version": "1.0.2",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypeMenus.git",
-                "reference": "581192c3d04ef0d89e87199aab8a2bf7776de6fe"
+                "reference": "5fd5955fae048e87ab729732e3137d24c869aea4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeMenus/zipball/581192c3d04ef0d89e87199aab8a2bf7776de6fe",
-                "reference": "581192c3d04ef0d89e87199aab8a2bf7776de6fe",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeMenus/zipball/5fd5955fae048e87ab729732e3137d24c869aea4",
+                "reference": "5fd5955fae048e87ab729732e3137d24c869aea4",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -3289,10 +3309,10 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeMenus/tree/1.0.2",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeMenus/tree/1.1.1",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeMenus/issues"
             },
-            "time": "2018-07-07T12:53:59+00:00"
+            "time": "2018-07-13T08:57:40+00:00"
         },
         {
             "name": "hypejunction/hypemoderator",
@@ -3476,16 +3496,16 @@
         },
         {
             "name": "hypejunction/hypepaypalpayments",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypePaypalPayments.git",
-                "reference": "99f93062fcb7691aacce32850ebb9cb622c25105"
+                "reference": "676b9e185580835246404bca7126b1b168b3fe16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypePaypalPayments/zipball/99f93062fcb7691aacce32850ebb9cb622c25105",
-                "reference": "99f93062fcb7691aacce32850ebb9cb622c25105",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypePaypalPayments/zipball/676b9e185580835246404bca7126b1b168b3fe16",
+                "reference": "676b9e185580835246404bca7126b1b168b3fe16",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -3528,23 +3548,23 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypePaypalPayments/tree/1.1.1",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypePaypalPayments/tree/master",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypePaypalPayments/issues"
             },
-            "time": "2018-07-06T13:24:01+00:00"
+            "time": "2018-07-09T08:27:49+00:00"
         },
         {
             "name": "hypejunction/hypepaypalsubscriptions",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypePaypalSubscriptions.git",
-                "reference": "835c871374d1d6d384a8951cd2bfc5d4876f7a3b"
+                "reference": "1f36dec9e689973e7e24b6d4cc8119952d303dfe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypePaypalSubscriptions/zipball/835c871374d1d6d384a8951cd2bfc5d4876f7a3b",
-                "reference": "835c871374d1d6d384a8951cd2bfc5d4876f7a3b",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypePaypalSubscriptions/zipball/1f36dec9e689973e7e24b6d4cc8119952d303dfe",
+                "reference": "1f36dec9e689973e7e24b6d4cc8119952d303dfe",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -3584,10 +3604,10 @@
                 "subscriptions"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypePaypalSubscriptions/tree/1.1.0",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypePaypalSubscriptions/tree/1.1.1",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypePaypalSubscriptions/issues"
             },
-            "time": "2018-06-29T19:46:01+00:00"
+            "time": "2018-07-09T09:37:34+00:00"
         },
         {
             "name": "hypejunction/hypepaywall",
@@ -3648,16 +3668,16 @@
         },
         {
             "name": "hypejunction/hypepost",
-            "version": "1.4.1",
+            "version": "1.4.2",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypePost.git",
-                "reference": "46b2d951fa42aec36a757328ccc004c16841e706"
+                "reference": "037b3d284ec0c155d6d15ee10b3e08dc587270ab"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypePost/zipball/46b2d951fa42aec36a757328ccc004c16841e706",
-                "reference": "46b2d951fa42aec36a757328ccc004c16841e706",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypePost/zipball/037b3d284ec0c155d6d15ee10b3e08dc587270ab",
+                "reference": "037b3d284ec0c155d6d15ee10b3e08dc587270ab",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -3698,10 +3718,10 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypePost/tree/master",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypePost/tree/1.4.2",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypePost/issues"
             },
-            "time": "2018-07-08T18:17:08+00:00"
+            "time": "2018-07-09T09:33:29+00:00"
         },
         {
             "name": "hypejunction/hypeprofile",
@@ -3982,16 +4002,16 @@
         },
         {
             "name": "hypejunction/hypeslug",
-            "version": "1.1.0",
+            "version": "1.1.3",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypeSlug.git",
-                "reference": "7c6dc550e0efdc62c218690333a369d7bc1476a9"
+                "reference": "e0adf543b310740a03b80c189ddd9856f396a70b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeSlug/zipball/7c6dc550e0efdc62c218690333a369d7bc1476a9",
-                "reference": "7c6dc550e0efdc62c218690333a369d7bc1476a9",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeSlug/zipball/e0adf543b310740a03b80c189ddd9856f396a70b",
+                "reference": "e0adf543b310740a03b80c189ddd9856f396a70b",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -4031,10 +4051,10 @@
                 "slug"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeSlug/tree/1.1.0",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeSlug/tree/1.1.3",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeSlug/issues"
             },
-            "time": "2018-06-29T20:02:22+00:00"
+            "time": "2018-07-09T13:50:45+00:00"
         },
         {
             "name": "hypejunction/hypestash",
@@ -4211,16 +4231,16 @@
         },
         {
             "name": "hypejunction/hypestripesubscriptions",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypeStripeSubscriptions.git",
-                "reference": "426efaeae7e2ab3460d09dd340f033fedd4f3ba7"
+                "reference": "a9ad6392d4af0f43a9ed7d1820331ed0a61b43e7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeStripeSubscriptions/zipball/426efaeae7e2ab3460d09dd340f033fedd4f3ba7",
-                "reference": "426efaeae7e2ab3460d09dd340f033fedd4f3ba7",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeStripeSubscriptions/zipball/a9ad6392d4af0f43a9ed7d1820331ed0a61b43e7",
+                "reference": "a9ad6392d4af0f43a9ed7d1820331ed0a61b43e7",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -4260,23 +4280,23 @@
                 "subscriptions"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeStripeSubscriptions/tree/1.1.0",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeStripeSubscriptions/tree/master",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeStripeSubscriptions/issues"
             },
-            "time": "2018-06-29T20:12:49+00:00"
+            "time": "2018-07-09T09:38:45+00:00"
         },
         {
             "name": "hypejunction/hypesubscriptions",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypeSubscriptions.git",
-                "reference": "4c6a9dea37f80588911f1291cee0a59b8e7e8b7e"
+                "reference": "cfe4db95951265fe3d4af6557edbb95e3b0211e0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeSubscriptions/zipball/4c6a9dea37f80588911f1291cee0a59b8e7e8b7e",
-                "reference": "4c6a9dea37f80588911f1291cee0a59b8e7e8b7e",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeSubscriptions/zipball/cfe4db95951265fe3d4af6557edbb95e3b0211e0",
+                "reference": "cfe4db95951265fe3d4af6557edbb95e3b0211e0",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -4315,23 +4335,23 @@
                 "subscriptions"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeSubscriptions/tree/1.1.1",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeSubscriptions/tree/1.1.2",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeSubscriptions/issues"
             },
-            "time": "2018-06-30T16:19:38+00:00"
+            "time": "2018-07-09T09:39:43+00:00"
         },
         {
             "name": "hypejunction/hypetheme",
-            "version": "1.0.1",
+            "version": "1.0.3",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypejunctionpro/Elgg3-hypeTheme.git",
-                "reference": "c485642af82a051e5e5ab77209fc34ddd3dd4e8d"
+                "reference": "f1879dc8385c70b9a7dc0106a4326239c54dbc5e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeTheme/zipball/c485642af82a051e5e5ab77209fc34ddd3dd4e8d",
-                "reference": "c485642af82a051e5e5ab77209fc34ddd3dd4e8d",
+                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeTheme/zipball/f1879dc8385c70b9a7dc0106a4326239c54dbc5e",
+                "reference": "f1879dc8385c70b9a7dc0106a4326239c54dbc5e",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -4370,10 +4390,10 @@
                 "theme"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeTheme/tree/master",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeTheme/tree/1.0.3",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeTheme/issues"
             },
-            "time": "2018-07-04T16:24:18+00:00"
+            "time": "2018-07-09T10:28:52+00:00"
         },
         {
             "name": "hypejunction/hypetime",
@@ -5417,6 +5437,20 @@
             "time": "2017-01-23T04:29:33+00:00"
         },
         {
+            "name": "npm-asset/at.js",
+            "version": "1.5.4",
+            "dist": {
+                "type": "tar",
+                "url": "https://registry.npmjs.org/at.js/-/at.js-1.5.4.tgz",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "npm-asset",
+            "license": [
+                "MIT"
+            ]
+        },
+        {
             "name": "npm-asset/dropzone",
             "version": "5.4.0",
             "dist": {
@@ -5436,6 +5470,20 @@
             "dist": {
                 "type": "tar",
                 "url": "https://registry.npmjs.org/formdata-polyfill/-/formdata-polyfill-3.0.11.tgz",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "npm-asset",
+            "license": [
+                "MIT"
+            ]
+        },
+        {
+            "name": "npm-asset/jquery.caret",
+            "version": "0.3.1",
+            "dist": {
+                "type": "tar",
+                "url": "https://registry.npmjs.org/jquery.caret/-/jquery.caret-0.3.1.tgz",
                 "reference": null,
                 "shasum": null
             },
@@ -5488,10 +5536,10 @@
         },
         {
             "name": "npm-asset/svg-country-flags",
-            "version": "1.2.2",
+            "version": "1.2.3",
             "dist": {
                 "type": "tar",
-                "url": "https://registry.npmjs.org/svg-country-flags/-/svg-country-flags-1.2.2.tgz",
+                "url": "https://registry.npmjs.org/svg-country-flags/-/svg-country-flags-1.2.3.tgz",
                 "reference": null,
                 "shasum": null
             },
@@ -6857,12 +6905,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "0253937ef2720f45fbe421e3ba486587b3080c35"
+                "reference": "731d60f7fc78a8816dae7049df255cd55e30c313"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/0253937ef2720f45fbe421e3ba486587b3080c35",
-                "reference": "0253937ef2720f45fbe421e3ba486587b3080c35",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/731d60f7fc78a8816dae7049df255cd55e30c313",
+                "reference": "731d60f7fc78a8816dae7049df255cd55e30c313",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -6950,6 +6998,8 @@
                 "squizlabs/php_codesniffer": ">=1,<2.8.1|>=3,<3.0.1",
                 "stormpath/sdk": ">=0,<9.9.99",
                 "swiftmailer/swiftmailer": ">=4,<5.4.5",
+                "sylius/admin-bundle": ">=1,<1.0.17|>=1.1,<1.1.9|>=1.2,<1.2.2",
+                "sylius/sylius": ">=1,<1.0.17|>=1.1,<1.1.9|>=1.2,<1.2.2",
                 "symfony/dependency-injection": ">=2,<2.0.17",
                 "symfony/form": ">=2.3,<2.3.35|>=2.4,<2.6.12|>=2.7,<2.7.38|>=2.8,<2.8.31|>=3,<3.2.14|>=3.3,<3.3.13",
                 "symfony/framework-bundle": ">=2,<2.3.18|>=2.4,<2.4.8|>=2.5,<2.5.2",
@@ -6970,7 +7020,7 @@
                 "symfony/web-profiler-bundle": ">=2,<2.3.19|>=2.4,<2.4.9|>=2.5,<2.5.4",
                 "symfony/yaml": ">=2,<2.0.22|>=2.1,<2.1.7",
                 "thelia/backoffice-default-template": ">=2.1,<2.1.2",
-                "thelia/thelia": ">=2.1.0-beta1,<2.1.3|>=2.1,<2.1.2",
+                "thelia/thelia": ">=2.1,<2.1.2|>=2.1.0-beta1,<2.1.3",
                 "titon/framework": ">=0,<9.9.99",
                 "twig/twig": "<1.20",
                 "typo3/cms": ">=6.2,<6.2.30|>=7,<7.6.22|>=8,<8.7.5",
@@ -7022,7 +7072,7 @@
                 }
             ],
             "description": "Prevents installation of composer packages with known security vulnerabilities: no API, simply require it",
-            "time": "2018-07-04T05:48:21+00:00"
+            "time": "2018-07-09T14:09:25+00:00"
         },
         {
             "name": "robmorgan/phinx",
@@ -7264,16 +7314,16 @@
         },
         {
             "name": "stripe/stripe-php",
-            "version": "v6.10.0",
+            "version": "v6.10.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stripe/stripe-php.git",
-                "reference": "be46d55c4a67265d6fe3eaf2ff69f6cfffe0034d"
+                "reference": "e87970b2dd823b37ddae0ef90071ada67e9bc464"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/be46d55c4a67265d6fe3eaf2ff69f6cfffe0034d",
-                "reference": "be46d55c4a67265d6fe3eaf2ff69f6cfffe0034d",
+                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/e87970b2dd823b37ddae0ef90071ada67e9bc464",
+                "reference": "e87970b2dd823b37ddae0ef90071ada67e9bc464",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -7321,7 +7371,7 @@
                 "payment processing",
                 "stripe"
             ],
-            "time": "2018-06-28T15:25:46+00:00"
+            "time": "2018-07-11T08:17:50+00:00"
         },
         {
             "name": "symfony/config",
@@ -9792,16 +9842,16 @@
         },
         {
             "name": "phpunit/phpunit-mock-objects",
-            "version": "5.0.7",
+            "version": "5.0.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit-mock-objects.git",
-                "reference": "3eaf040f20154d27d6da59ca2c6e28ac8fd56dce"
+                "reference": "6f9a3c8bf34188a2b53ce2ae7a126089c53e0a9f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit-mock-objects/zipball/3eaf040f20154d27d6da59ca2c6e28ac8fd56dce",
-                "reference": "3eaf040f20154d27d6da59ca2c6e28ac8fd56dce",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit-mock-objects/zipball/6f9a3c8bf34188a2b53ce2ae7a126089c53e0a9f",
+                "reference": "6f9a3c8bf34188a2b53ce2ae7a126089c53e0a9f",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -9853,7 +9903,7 @@
                 "mock",
                 "xunit"
             ],
-            "time": "2018-05-29T13:50:43+00:00"
+            "time": "2018-07-13T03:27:23+00:00"
         },
         {
             "name": "sebastian/code-unit-reverse-lookup",

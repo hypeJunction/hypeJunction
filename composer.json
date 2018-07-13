@@ -15,6 +15,7 @@
         "hypejunction/hypebraintreepayments": "~1.0",
         "hypejunction/hypebraintreesubscriptions": "~1.0",
         "hypejunction/hypecapabilities": "~1.0",
+        "hypejunction/hypecaptcha": "~1.0",
         "hypejunction/hypecli": "~1.0",
         "hypejunction/hypecountries": "~2.0",
         "hypejunction/hypediscussions": "~3.0",
