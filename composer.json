@@ -6,7 +6,7 @@
     "prefer-stable": true,
     "minimum-stability": "dev",
     "require": {
-        "elgg/elgg": "3.x-dev",
+        "elgg/elgg": "~3.0",
         "hypejunction/hypeactivity": "~1.0",
         "hypejunction/hypeajax": "~1.0",
         "hypejunction/hypeattachments": "~3.0",
@@ -44,6 +44,7 @@
         "hypejunction/hypescraper": "~6.0",
         "hypejunction/hypeshortcode": "~1.0",
         "hypejunction/hypeshutdown": "~1.0",
+        "hypejunction/hypesatis": "~1.0",
         "hypejunction/hypeslider": "~1.0",
         "hypejunction/hypeslug": "~1.0",
         "hypejunction/hypestash": "~1.0",
@@ -87,10 +88,7 @@
         },
         {
             "type": "composer",
-            "url": "https://repo.packagist.com/hypejunction/"
-        },
-        {
-            "packagist.org": false
+            "url": "https://hypejunction.com/satis"
         }
     ]
 }

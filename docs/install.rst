@@ -9,14 +9,14 @@ Distribution (.zip) plugin files can be downloaded from `hypeJunction website`_.
 Using Composer
 ~~~~~~~~~~~~~~
 
-To use composer, you need to have an active subscription that gives you access to Private Packagist, where hypeJunction plugins are hosted.
+To use composer, you need to have an active subscription that gives you access to individual packages.
 
 .. code::
 
-   ## Add your Private Packagist credentials to global config
-   ## You can find your username and token by logging into https://hypejunction.com/ and navigating your settings page.
+   ## Add your satis credentials to global config
+   ## You can find your username and token by logging into https://hypejunction.com/ and navigating to one of the downloads.
 
-   composer config --global --auth http-basic.repo.packagist.com <username> <token>
+   composer config --global --auth http-basic.hypejunction.com <username> <token>
 
 
 Update your ``composer.json`` to include:
@@ -26,7 +26,7 @@ Update your ``composer.json`` to include:
    "repositories": [
        {
            "type": "composer",
-           "url": "https://repo.packagist.com/hypejunction/"
+           "url": "https://hypejunction.com/satis"
        }
    ]
 
@@ -48,8 +48,7 @@ The easiest way to create an Elgg project with hypeJunction plugins installed is
    composer install # 2nd call is currently required
 
    ./elgg-cli install
-
-   ## Login as an administrator and enable hypeCli plugin, then run to enable all plugins
+   ./elgg-cli plugins:activate hypeCli
    ./elgg-cli hypejunction:install
 
 
@@ -60,7 +59,7 @@ You can add plugins to an existing project, using
 
 .. code::
 
-   composer install hypejunction/<plugin_name>
+   composer require hypejunction/<plugin_name>
 
 
 Additional Info

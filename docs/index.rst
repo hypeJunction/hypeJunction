@@ -15,6 +15,7 @@ Build modern social media applications with an ever-growing collection of high-q
    plugins/hypeBraintreePayments/index
    plugins/hypeBraintreeSubscriptions/index
    plugins/hypeCapabilities/index
+   plugins/hypeCaptcha/index
    plugins/hypeCli/index
    plugins/hypeCountries/index
    plugins/hypeDiscussions/index
@@ -40,6 +41,7 @@ Build modern social media applications with an ever-growing collection of high-q
    plugins/hypePaywall/index
    plugins/hypePost/index
    plugins/hypeProfile/index
+   plugins/hypeSatis/index
    plugins/hypeScraper/index
    plugins/hypeShortcode/index
    plugins/hypeShutdown/index
