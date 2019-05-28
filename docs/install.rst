@@ -4,12 +4,15 @@ Installation
 Using ZIP files
 ~~~~~~~~~~~~~~~
 
-Distribution (.zip) plugin files can be downloaded from `hypeJunction website`_. To add a plugin, unzip it into your ``/mod`` directory, making sure the directories are not nested, and that ``manifest.xml`` is in the root of the plugin folder.
+Using ZIP files is discouraged: they are hard to maintain and result in duplicate dependencies.
+
+Distribution (.zip) plugin files can be downloaded from `hypeJunction website`_.
+To add a plugin, unzip it into your ``/mod`` directory, making sure the directories are not nested, and that ``manifest.xml`` is in the root of the plugin folder.
 
 Using Composer
 ~~~~~~~~~~~~~~
 
-To use composer, you need to have an active subscription that gives you access to individual packages.
+To use composer, you need to have an active hypeJunction subscription that gives you access to individual packages.
 
 .. code::
 
@@ -47,9 +50,13 @@ The easiest way to create an Elgg project with hypeJunction plugins installed is
    composer install
    composer install # 2nd call is currently required
 
-   ./elgg-cli install
-   ./elgg-cli plugins:activate hypeCli
-   ./elgg-cli hypejunction:install
+   vendor/bin/elgg-cli install
+   vendor/bin/elgg-cli plugins:activate hypeCli
+
+   ## If you run into an error, rerun the command
+   ## Due to plugin lifecyle and caching, there are occasional failures
+   vendor/bin/elgg-cli hypejunction:install
+
 
 
 Existing Project
