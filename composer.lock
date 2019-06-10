@@ -53,17 +53,16 @@
         },
         {
             "name": "bower-asset/fontawesome",
-            "version": "5.8.2",
+            "version": "5.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/FortAwesome/Font-Awesome.git",
-                "reference": "e05a1219784935ff5beb6bfb17cdc86bc848d0bb"
+                "reference": "ba907eaec40fab01d410c3023a5572b2cb46cea6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FortAwesome/Font-Awesome/zipball/e05a1219784935ff5beb6bfb17cdc86bc848d0bb",
-                "reference": "e05a1219784935ff5beb6bfb17cdc86bc848d0bb",
-                "shasum": null
+                "url": "https://api.github.com/repos/FortAwesome/Font-Awesome/zipball/ba907eaec40fab01d410c3023a5572b2cb46cea6",
+                "reference": "ba907eaec40fab01d410c3023a5572b2cb46cea6"
             },
             "type": "bower-asset"
         },
@@ -78,8 +77,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/hammerjs/hammer.js/zipball/49731688380a91be07653ee2491ab48ece7952b5",
-                "reference": "49731688380a91be07653ee2491ab48ece7952b5",
-                "shasum": null
+                "reference": "49731688380a91be07653ee2491ab48ece7952b5"
             },
             "type": "bower-asset"
         },
@@ -94,8 +92,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/jquery/jquery-dist/zipball/c0185ab7c75aab88762c5aae780b9d83b80eda72",
-                "reference": "c0185ab7c75aab88762c5aae780b9d83b80eda72",
-                "shasum": null
+                "reference": "c0185ab7c75aab88762c5aae780b9d83b80eda72"
             },
             "type": "bower-asset",
             "license": [
@@ -113,8 +110,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/jackmoore/colorbox/zipball/bac78120c6ca9e63370cc317ab6f400129cd6608",
-                "reference": "bac78120c6ca9e63370cc317ab6f400129cd6608",
-                "shasum": null
+                "reference": "bac78120c6ca9e63370cc317ab6f400129cd6608"
             },
             "require": {
                 "bower-asset/jquery": ">=1.3.2"
@@ -132,8 +128,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/jquery-form/form/zipball/6bf24a5f6d8be65f4e5491863180c09356d9dadd",
-                "reference": "6bf24a5f6d8be65f4e5491863180c09356d9dadd",
-                "shasum": null
+                "reference": "6bf24a5f6d8be65f4e5491863180c09356d9dadd"
             },
             "require": {
                 "bower-asset/jquery": ">=1.5"
@@ -151,8 +146,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/jzaefferer/jquery-treeview/zipball/ea4fd39fe7bf25db75cdb6edeb73e502d9804924",
-                "reference": "ea4fd39fe7bf25db75cdb6edeb73e502d9804924",
-                "shasum": null
+                "reference": "ea4fd39fe7bf25db75cdb6edeb73e502d9804924"
             },
             "type": "bower-asset",
             "license": [
@@ -170,8 +164,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/components/jqueryui/zipball/c34f8dbf3ba57b3784b93f26119f436c0e8288e1",
-                "reference": "c34f8dbf3ba57b3784b93f26119f436c0e8288e1",
-                "shasum": null
+                "reference": "c34f8dbf3ba57b3784b93f26119f436c0e8288e1"
             },
             "require": {
                 "bower-asset/jquery": ">=1.6"
@@ -189,8 +182,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/wong2/imgareaselect/zipball/446c7ff9efd10bfee2e673c19ca4d8759087dab4",
-                "reference": "446c7ff9efd10bfee2e673c19ca4d8759087dab4",
-                "shasum": null
+                "reference": "446c7ff9efd10bfee2e673c19ca4d8759087dab4"
             },
             "type": "bower-asset"
         },
@@ -205,8 +197,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/moment/moment/zipball/96d0d6791ab495859d09a868803d31a55c917de1",
-                "reference": "96d0d6791ab495859d09a868803d31a55c917de1",
-                "shasum": null
+                "reference": "96d0d6791ab495859d09a868803d31a55c917de1"
             },
             "type": "bower-asset",
             "license": [
@@ -224,24 +215,22 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/necolas/normalize.css/zipball/fc091cce1534909334c1911709a39c22d406977b",
-                "reference": "fc091cce1534909334c1911709a39c22d406977b",
-                "shasum": null
+                "reference": "fc091cce1534909334c1911709a39c22d406977b"
             },
             "type": "bower-asset"
         },
         {
             "name": "bower-asset/parsleyjs",
-            "version": "2.9.0",
+            "version": "2.9.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guillaumepotier/Parsley.js.git",
-                "reference": "7fc5786e95f7ba2f9dd754c856d84b39aa5da9f2"
+                "reference": "fffecbf9b3b8f37eb9436fa296f397e85e8f4ce5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guillaumepotier/Parsley.js/zipball/7fc5786e95f7ba2f9dd754c856d84b39aa5da9f2",
-                "reference": "7fc5786e95f7ba2f9dd754c856d84b39aa5da9f2",
-                "shasum": null
+                "url": "https://api.github.com/repos/guillaumepotier/Parsley.js/zipball/fffecbf9b3b8f37eb9436fa296f397e85e8f4ce5",
+                "reference": "fffecbf9b3b8f37eb9436fa296f397e85e8f4ce5"
             },
             "require": {
                 "bower-asset/jquery": ">1.8"
@@ -262,8 +251,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/jrburke/requirejs-bower/zipball/3596b04fa67953d2fb06456ecb92cf833b462b82",
-                "reference": "3596b04fa67953d2fb06456ecb92cf833b462b82",
-                "shasum": null
+                "reference": "3596b04fa67953d2fb06456ecb92cf833b462b82"
             },
             "type": "bower-asset",
             "license": [
@@ -281,8 +269,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/select2/select2/zipball/04fce559673684af8ec2912457a9d6380ea90314",
-                "reference": "04fce559673684af8ec2912457a9d6380ea90314",
-                "shasum": null
+                "reference": "04fce559673684af8ec2912457a9d6380ea90314"
             },
             "type": "bower-asset",
             "license": [
@@ -300,8 +287,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/kenwheeler/slick/zipball/0f40c9d6a02a5c08b5f4dd80fdada3a854a59bee",
-                "reference": "0f40c9d6a02a5c08b5f4dd80fdada3a854a59bee",
-                "shasum": null
+                "reference": "0f40c9d6a02a5c08b5f4dd80fdada3a854a59bee"
             },
             "require": {
                 "bower-asset/jquery": ">=1.7"
@@ -322,8 +308,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/alexei/sprintf.js/zipball/747b806c2dab5b64d5c9958c42884946a187c3b1",
-                "reference": "747b806c2dab5b64d5c9958c42884946a187c3b1",
-                "shasum": null
+                "reference": "747b806c2dab5b64d5c9958c42884946a187c3b1"
             },
             "type": "bower-asset",
             "license": [
@@ -341,8 +326,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/requirejs/text/zipball/3f9d4c19b3a1a3c6f35650c5788cbea1db93197a",
-                "reference": "3f9d4c19b3a1a3c6f35650c5788cbea1db93197a",
-                "shasum": null
+                "reference": "3f9d4c19b3a1a3c6f35650c5788cbea1db93197a"
             },
             "type": "bower-asset",
             "license": [
@@ -360,8 +344,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/dropbox/zxcvbn/zipball/f0735425180b130d6c57efbc044a47c0c8f1fd65",
-                "reference": "f0735425180b130d6c57efbc044a47c0c8f1fd65",
-                "shasum": null
+                "reference": "f0735425180b130d6c57efbc044a47c0c8f1fd65"
             },
             "type": "bower-asset"
         },
@@ -1016,7 +999,7 @@
                     "Interop\\Container\\": "src/Interop/Container/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1063,7 +1046,7 @@
                     "lib/functions.php"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1118,7 +1101,7 @@
                     "Doctrine\\Common\\Annotations\\": "lib/Doctrine/Common/Annotations"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1189,7 +1172,7 @@
                     "Doctrine\\Common\\Cache\\": "lib/Doctrine/Common/Cache"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1255,7 +1238,7 @@
                     "Doctrine\\Common\\Collections\\": "lib/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1326,7 +1309,7 @@
                     "Doctrine\\Common\\": "lib/Doctrine/Common"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1402,7 +1385,7 @@
                     "Doctrine\\DBAL\\": "lib/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1465,7 +1448,7 @@
                     "Doctrine\\Common\\Inflector\\": "lib/Doctrine/Common/Inflector"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1503,20 +1486,23 @@
         },
         {
             "name": "doctrine/lexer",
-            "version": "v1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/lexer.git",
-                "reference": "83893c552fd2045dd78aef794c31e694c37c0b8c"
+                "reference": "1febd6c3ef84253d7c815bed85fc622ad207a9f8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/lexer/zipball/83893c552fd2045dd78aef794c31e694c37c0b8c",
-                "reference": "83893c552fd2045dd78aef794c31e694c37c0b8c",
+                "url": "https://api.github.com/repos/doctrine/lexer/zipball/1febd6c3ef84253d7c815bed85fc622ad207a9f8",
+                "reference": "1febd6c3ef84253d7c815bed85fc622ad207a9f8",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.2"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^4.5"
             },
             "type": "library",
             "extra": {
@@ -1525,11 +1511,11 @@
                 }
             },
             "autoload": {
-                "psr-0": {
-                    "Doctrine\\Common\\Lexer\\": "lib/"
+                "psr-4": {
+                    "Doctrine\\Common\\Lexer\\": "lib/Doctrine/Common/Lexer"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1547,13 +1533,16 @@
                     "email": "schmittjoh@gmail.com"
                 }
             ],
-            "description": "Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers.",
-            "homepage": "http://www.doctrine-project.org",
+            "description": "PHP Doctrine Lexer parser library that can be used in Top-Down, Recursive Descent Parsers.",
+            "homepage": "https://www.doctrine-project.org/projects/lexer.html",
             "keywords": [
+                "annotations",
+                "docblock",
                 "lexer",
-                "parser"
+                "parser",
+                "php"
             ],
-            "time": "2014-09-09T13:34:57+00:00"
+            "time": "2019-06-08T11:03:04+00:00"
         },
         {
             "name": "elgg/elgg",
@@ -1663,7 +1652,7 @@
                 "elgg/elgg": "<3.0"
             },
             "type": "elgg-plugin",
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "GPL-2.0"
             ],
@@ -1713,7 +1702,7 @@
                     "Faker\\": "src/Faker/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1771,7 +1760,7 @@
                     "GuzzleHttp\\": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1829,7 +1818,7 @@
                     "src/functions_include.php"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1941,7 +1930,7 @@
                     "Unsplash\\OAuth2\\Client\\": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1985,7 +1974,7 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "GPL-2.0"
             ],
@@ -2032,7 +2021,7 @@
                     "": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "GPL-2.0"
             ],
@@ -2056,17 +2045,17 @@
         },
         {
             "name": "hypejunction/hypeactivity",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeActivity.git",
-                "reference": "45f234e01c9412afc5f562fb25d0f0fb3378b04b"
+                "url": "git@github.com:hypeJunction/Elgg3-hypeActivity.git",
+                "reference": "c745ea56190b8b8757d63525e52f6b49fd3b4dfc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeActivity/zipball/45f234e01c9412afc5f562fb25d0f0fb3378b04b",
-                "reference": "45f234e01c9412afc5f562fb25d0f0fb3378b04b",
-                "shasum": ""
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeactivity/hypejunction-hypeactivity-c745ea56190b8b8757d63525e52f6b49fd3b4dfc-zip-2f3f98.zip",
+                "reference": "c745ea56190b8b8757d63525e52f6b49fd3b4dfc",
+                "shasum": "c6684e3e966514e29dd782bd2566f6b02cecb0e8"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -2081,7 +2070,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -2099,24 +2087,24 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeActivity/tree/1.1.0",
-                "issues": "https://github.com/hypejunctionpro/Elgg3-hypeActivity/issues"
+                "source": "https://github.com/hypeJunction/Elgg3-hypeActivity/tree/1.1.1",
+                "issues": "https://github.com/hypeJunction/Elgg3-hypeActivity/issues"
             },
-            "time": "2018-06-29T18:11:10+00:00"
+            "time": "2019-06-04T11:54:38+00:00"
         },
         {
             "name": "hypejunction/hypeajax",
             "version": "1.2.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeAjax.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeAjax.git",
                 "reference": "4fcc33bfce4c0b4d47d5f9170d26722a7af94154"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeajax/hypejunction-hypeajax-4fcc33bfce4c0b4d47d5f9170d26722a7af94154-zip-91966d.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeajax/hypejunction-hypeajax-4fcc33bfce4c0b4d47d5f9170d26722a7af94154-zip-91966d.zip",
                 "reference": "4fcc33bfce4c0b4d47d5f9170d26722a7af94154",
-                "shasum": "f530cb3600ba710b99dc5cac5cf348fdba18b447"
+                "shasum": "24dbc125634621de3e0163c17c173880771b21f1"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -2159,14 +2147,14 @@
             "version": "3.1.0",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeAttachments.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeAttachments.git",
                 "reference": "de3b069d1d43ec4017e8587fbee9af9cd0709c79"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeAttachments/zipball/de3b069d1d43ec4017e8587fbee9af9cd0709c79",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeattachments/hypejunction-hypeattachments-de3b069d1d43ec4017e8587fbee9af9cd0709c79-zip-5bf6a9.zip",
                 "reference": "de3b069d1d43ec4017e8587fbee9af9cd0709c79",
-                "shasum": ""
+                "shasum": "ee0c9a34c6ce36ab66902a8682dad0960c5128fb"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -2182,7 +2170,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -2211,14 +2198,14 @@
             "version": "1.1.3",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeAutocomplete.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeAutocomplete.git",
                 "reference": "1e6758f0e071d576f1214df990fd150ef51e3319"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeAutocomplete/zipball/1e6758f0e071d576f1214df990fd150ef51e3319",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeautocomplete/hypejunction-hypeautocomplete-1e6758f0e071d576f1214df990fd150ef51e3319-zip-5e930b.zip",
                 "reference": "1e6758f0e071d576f1214df990fd150ef51e3319",
-                "shasum": ""
+                "shasum": "9c72fc476460d6fa28df2cc9041d23627ffe0121"
             },
             "require": {
                 "bower-asset/select2": "^4.0",
@@ -2234,7 +2221,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -2263,14 +2249,14 @@
             "version": "1.1.0",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeBlog.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeBlog.git",
                 "reference": "934aa9e0df319366aa92300c64c10dd63eb6a40c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeBlog/zipball/934aa9e0df319366aa92300c64c10dd63eb6a40c",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeblog/hypejunction-hypeblog-934aa9e0df319366aa92300c64c10dd63eb6a40c-zip-a924c8.zip",
                 "reference": "934aa9e0df319366aa92300c64c10dd63eb6a40c",
-                "shasum": ""
+                "shasum": "bc8cf0a8a2d695abfda6bc842454d2edad746cf9"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -2285,7 +2271,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -2314,14 +2299,14 @@
             "version": "1.1.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeBraintreePayments.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeBraintreePayments.git",
                 "reference": "49af002b9f35e1f0ac9cc401274389a1a8e49af6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeBraintreePayments/zipball/49af002b9f35e1f0ac9cc401274389a1a8e49af6",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypebraintreepayments/hypejunction-hypebraintreepayments-49af002b9f35e1f0ac9cc401274389a1a8e49af6-zip-958cc9.zip",
                 "reference": "49af002b9f35e1f0ac9cc401274389a1a8e49af6",
-                "shasum": ""
+                "shasum": "d15a7b8335509c8caae4e5b0c2f958770132e4e9"
             },
             "require": {
                 "braintree/braintree_php": "^3.29",
@@ -2337,7 +2322,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -2366,14 +2350,14 @@
             "version": "1.1.0",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeBraintreeSubscriptions.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeBraintreeSubscriptions.git",
                 "reference": "cf11220e4867ba5f27537a41da1b3b7f50dd2bfd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeBraintreeSubscriptions/zipball/cf11220e4867ba5f27537a41da1b3b7f50dd2bfd",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypebraintreesubscriptions/hypejunction-hypebraintreesubscriptions-cf11220e4867ba5f27537a41da1b3b7f50dd2bfd-zip-f10ae7.zip",
                 "reference": "cf11220e4867ba5f27537a41da1b3b7f50dd2bfd",
-                "shasum": ""
+                "shasum": "d601237005976e05851c0cbf97feb6da49e4210e"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -2387,7 +2371,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -2414,14 +2397,14 @@
             "version": "1.2.0",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeCapabilities.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeCapabilities.git",
                 "reference": "f28e3af6e7e3bc44abcb40a90c916a13c479ec45"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeCapabilities/zipball/f28e3af6e7e3bc44abcb40a90c916a13c479ec45",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypecapabilities/hypejunction-hypecapabilities-f28e3af6e7e3bc44abcb40a90c916a13c479ec45-zip-0e5368.zip",
                 "reference": "f28e3af6e7e3bc44abcb40a90c916a13c479ec45",
-                "shasum": ""
+                "shasum": "288984c207f842daccc64e2f14883194ee90e9a8"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -2436,7 +2419,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -2465,14 +2447,14 @@
             "version": "1.0.2",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeCaptcha.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeCaptcha.git",
                 "reference": "4da1ccf26007cf8ab28dacdd5f48c46e8160851e"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypecaptcha/hypejunction-hypecaptcha-4da1ccf26007cf8ab28dacdd5f48c46e8160851e-zip-c66ca1.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypecaptcha/hypejunction-hypecaptcha-4da1ccf26007cf8ab28dacdd5f48c46e8160851e-zip-c66ca1.zip",
                 "reference": "4da1ccf26007cf8ab28dacdd5f48c46e8160851e",
-                "shasum": "42ed038b517df37c42195cfc98d378ea36f34c67"
+                "shasum": "ba25f2d4d5e0286cd03bcb09f4f37583c95c47ec"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -2506,8 +2488,8 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeCaptcha/tree/1.0.2",
-                "issues": "https://github.com/hypejunctionpro/Elgg3-hypeCaptcha/issues"
+                "source": "https://github.com/hypeJunction/Elgg3-hypeCaptcha/tree/1.0.2",
+                "issues": "https://github.com/hypeJunction/Elgg3-hypeCaptcha/issues"
             },
             "time": "2018-07-13T09:23:48+00:00"
         },
@@ -2516,14 +2498,14 @@
             "version": "1.1.0",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeCli.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeCli.git",
                 "reference": "01b1264b11f17e9877883072e8a10cb4f0eaa5e6"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypecli/hypejunction-hypecli-01b1264b11f17e9877883072e8a10cb4f0eaa5e6-zip-befa33.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypecli/hypejunction-hypecli-01b1264b11f17e9877883072e8a10cb4f0eaa5e6-zip-befa33.zip",
                 "reference": "01b1264b11f17e9877883072e8a10cb4f0eaa5e6",
-                "shasum": "1ddb00189940b276e8c724736dbd8b1f7de41f54"
+                "shasum": "7eb1db91022f208a54fada7c714ffe02becb812e"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -2556,8 +2538,8 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeCli/tree/1.1.0",
-                "issues": "https://github.com/hypejunctionpro/Elgg3-hypeCli/issues"
+                "source": "https://github.com/hypeJunction/Elgg3-hypeCli/tree/1.1.0",
+                "issues": "https://github.com/hypeJunction/Elgg3-hypeCli/issues"
             },
             "time": "2018-11-12T10:19:56+00:00"
         },
@@ -2566,14 +2548,14 @@
             "version": "2.1.3",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeCountries.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeCountries.git",
                 "reference": "ffee06d9413711f2749f1d8f3c587b89470bc192"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypecountries/hypejunction-hypecountries-ffee06d9413711f2749f1d8f3c587b89470bc192-zip-a0797b.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypecountries/hypejunction-hypecountries-ffee06d9413711f2749f1d8f3c587b89470bc192-zip-a0797b.zip",
                 "reference": "ffee06d9413711f2749f1d8f3c587b89470bc192",
-                "shasum": "f476c672d7703c12e9ebfeb6572a39867fa9cd46"
+                "shasum": "90140eb0a4d075a3883ecc53e3eedd7ffd2c7896"
             },
             "require": {
                 "npm-asset/svg-country-flags": "^1.2"
@@ -2614,14 +2596,14 @@
             "version": "3.1.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeDiscussions.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeDiscussions.git",
                 "reference": "2b29e0ded6f11de6ac33712fe7c9b3512844c6a3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeDiscussions/zipball/2b29e0ded6f11de6ac33712fe7c9b3512844c6a3",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypediscussions/hypejunction-hypediscussions-2b29e0ded6f11de6ac33712fe7c9b3512844c6a3-zip-2b203c.zip",
                 "reference": "2b29e0ded6f11de6ac33712fe7c9b3512844c6a3",
-                "shasum": ""
+                "shasum": "dc5a1228d7909ccb8b653d40c07f7300ab5f5cbb"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -2636,7 +2618,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -2665,14 +2646,14 @@
             "version": "1.1.0",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeDownloads.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeDownloads.git",
                 "reference": "39dbea63cb6d8fa76a2f84f6a79ce5d039df1579"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypedownloads/hypejunction-hypedownloads-39dbea63cb6d8fa76a2f84f6a79ce5d039df1579-zip-d4e214.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypedownloads/hypejunction-hypedownloads-39dbea63cb6d8fa76a2f84f6a79ce5d039df1579-zip-d4e214.zip",
                 "reference": "39dbea63cb6d8fa76a2f84f6a79ce5d039df1579",
-                "shasum": "014b48f0efaf00a82a4553f16c478ecc981ecfc6"
+                "shasum": "a267849e44e630c95c1b167abc7ac4516563d95f"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -2713,14 +2694,14 @@
             "version": "1.1.0",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeDraft.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeDraft.git",
                 "reference": "a4f235f952d670c387cd7b3fa71165fa415d772d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeDraft/zipball/a4f235f952d670c387cd7b3fa71165fa415d772d",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypedraft/hypejunction-hypedraft-a4f235f952d670c387cd7b3fa71165fa415d772d-zip-62338d.zip",
                 "reference": "a4f235f952d670c387cd7b3fa71165fa415d772d",
-                "shasum": ""
+                "shasum": "2c92e3edaa6c2956a53a32e9db9b513ae67f5567"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -2735,7 +2716,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -2753,7 +2733,7 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeDraft/tree/master",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeDraft/tree/1.1.0",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeDraft/issues"
             },
             "time": "2018-06-29T18:58:59+00:00"
@@ -2763,14 +2743,14 @@
             "version": "6.1.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeDropzone.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeDropzone.git",
                 "reference": "e23ddaff16087820c0602dde257bbfaffd4c1a2d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeDropzone/zipball/e23ddaff16087820c0602dde257bbfaffd4c1a2d",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypedropzone/hypejunction-hypedropzone-e23ddaff16087820c0602dde257bbfaffd4c1a2d-zip-22fb5d.zip",
                 "reference": "e23ddaff16087820c0602dde257bbfaffd4c1a2d",
-                "shasum": ""
+                "shasum": "ff0d777f468a52a09f08b6cd19b53912edafbc06"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -2786,7 +2766,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -2816,14 +2795,14 @@
             "version": "3.1.0",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeEmbed.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeEmbed.git",
                 "reference": "9faa5d7e3bc1d4f4d9c740432b52eb9e58e4a6ca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeEmbed/zipball/9faa5d7e3bc1d4f4d9c740432b52eb9e58e4a6ca",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeembed/hypejunction-hypeembed-9faa5d7e3bc1d4f4d9c740432b52eb9e58e4a6ca-zip-4682ce.zip",
                 "reference": "9faa5d7e3bc1d4f4d9c740432b52eb9e58e4a6ca",
-                "shasum": ""
+                "shasum": "5b577d06e26234b49a9a53698c6c999191a81b9a"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -2838,7 +2817,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -2866,17 +2844,17 @@
         },
         {
             "name": "hypejunction/hypegroups",
-            "version": "3.0.0",
+            "version": "3.0.3",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeGroups.git",
-                "reference": "18f4496c09993d16db5f9341927b4393c5e967c1"
+                "url": "git@github.com:hypeJunction/Elgg3-hypeGroups.git",
+                "reference": "16e5243a084ad29a249642b412057feff22dc5b3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeGroups/zipball/18f4496c09993d16db5f9341927b4393c5e967c1",
-                "reference": "18f4496c09993d16db5f9341927b4393c5e967c1",
-                "shasum": ""
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypegroups/hypejunction-hypegroups-16e5243a084ad29a249642b412057feff22dc5b3-zip-458fa1.zip",
+                "reference": "16e5243a084ad29a249642b412057feff22dc5b3",
+                "shasum": "459468d6d38e639cf568a90c6248f46e990afd38"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -2886,7 +2864,6 @@
             "extra": {
                 "installer-name": "hypeGroups"
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -2905,24 +2882,24 @@
                 "subtypes"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeGroups/tree/3.0.0",
-                "issues": "https://github.com/hypejunctionpro/Elgg3-hypeGroups/issues"
+                "source": "https://github.com/hypeJunction/Elgg3-hypeGroups/tree/3.0.3",
+                "issues": "https://github.com/hypeJunction/Elgg3-hypeGroups/issues"
             },
-            "time": "2018-06-29T19:13:06+00:00"
+            "time": "2019-06-04T13:05:13+00:00"
         },
         {
             "name": "hypejunction/hypehero",
             "version": "2.0.0",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeHero.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeHero.git",
                 "reference": "b1021512fc8982a14c3164411736f6235f96f33f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeHero/zipball/b1021512fc8982a14c3164411736f6235f96f33f",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypehero/hypejunction-hypehero-b1021512fc8982a14c3164411736f6235f96f33f-zip-f8e150.zip",
                 "reference": "b1021512fc8982a14c3164411736f6235f96f33f",
-                "shasum": ""
+                "shasum": "29d784a4a184de6ebac7351ab7766b9c943efa47"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -2937,7 +2914,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -2966,14 +2942,14 @@
             "version": "2.0.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeIllustration.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeIllustration.git",
                 "reference": "7a68386f6afef45841d24a1209ac1d889e822f2b"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeillustration/hypejunction-hypeillustration-7a68386f6afef45841d24a1209ac1d889e822f2b-zip-fc5af1.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeillustration/hypejunction-hypeillustration-7a68386f6afef45841d24a1209ac1d889e822f2b-zip-fc5af1.zip",
                 "reference": "7a68386f6afef45841d24a1209ac1d889e822f2b",
-                "shasum": "b1be2687292c03f091360d23118b730320dedcb0"
+                "shasum": "9c70240da904b8328697983fa03f2c94b97dbb51"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -3018,14 +2994,14 @@
             "version": "6.2.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeInteractions.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeInteractions.git",
                 "reference": "f175f8a40fe7636723011c56b5718b8e48b531da"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeInteractions/zipball/f175f8a40fe7636723011c56b5718b8e48b531da",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeinteractions/hypejunction-hypeinteractions-f175f8a40fe7636723011c56b5718b8e48b531da-zip-f543bd.zip",
                 "reference": "f175f8a40fe7636723011c56b5718b8e48b531da",
-                "shasum": ""
+                "shasum": "4efa48d7393f89ff0d38eb940b3be8f749bdc84a"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -3039,7 +3015,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -3071,14 +3046,14 @@
             "version": "2.2.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeInvite.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeInvite.git",
                 "reference": "16caf9f5c65df645ee4d95533d6bf72fbb321440"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeInvite/zipball/16caf9f5c65df645ee4d95533d6bf72fbb321440",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeinvite/hypejunction-hypeinvite-16caf9f5c65df645ee4d95533d6bf72fbb321440-zip-6efe30.zip",
                 "reference": "16caf9f5c65df645ee4d95533d6bf72fbb321440",
-                "shasum": ""
+                "shasum": "09b5b50f3cd3788935f20f646da467922058646e"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -3093,7 +3068,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -3123,14 +3097,14 @@
             "version": "5.1.3",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeLists.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeLists.git",
                 "reference": "621ad26979335b732a25bf199cbca41d99d10b22"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypelists/hypejunction-hypelists-621ad26979335b732a25bf199cbca41d99d10b22-zip-962ac6.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypelists/hypejunction-hypelists-621ad26979335b732a25bf199cbca41d99d10b22-zip-962ac6.zip",
                 "reference": "621ad26979335b732a25bf199cbca41d99d10b22",
-                "shasum": "d1946b5562930784f9202722f25d1a397eaa3755"
+                "shasum": "81658ae2383bd96ff2bd881a1e4fd902e72da2d5"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -3172,17 +3146,17 @@
         },
         {
             "name": "hypejunction/hypemapsopen",
-            "version": "2.1.0",
+            "version": "2.1.2",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeMapsOpen.git",
-                "reference": "1be18d9b669096183de17d80cda5406c2d0b4193"
+                "url": "git@github.com:hypeJunction/Elgg3-hypeMapsOpen.git",
+                "reference": "eb0724edad9fb13ca1b1f73912f46cc86797b101"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeMapsOpen/zipball/1be18d9b669096183de17d80cda5406c2d0b4193",
-                "reference": "1be18d9b669096183de17d80cda5406c2d0b4193",
-                "shasum": ""
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypemapsopen/hypejunction-hypemapsopen-eb0724edad9fb13ca1b1f73912f46cc86797b101-zip-05d831.zip",
+                "reference": "eb0724edad9fb13ca1b1f73912f46cc86797b101",
+                "shasum": "4b60d6b1acce07b3e3974659088ab0dda7118aa2"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -3200,7 +3174,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -3223,24 +3196,24 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeMapsOpen/tree/2.1.0",
-                "issues": "https://github.com/hypejunctionpro/Elgg3-hypeMapsOpen/issues"
+                "source": "https://github.com/hypeJunction/Elgg3-hypeMapsOpen/tree/2.1.2",
+                "issues": "https://github.com/hypeJunction/Elgg3-hypeMapsOpen/issues"
             },
-            "time": "2018-06-29T19:22:50+00:00"
+            "time": "2019-06-04T12:55:12+00:00"
         },
         {
             "name": "hypejunction/hypemedia",
             "version": "1.3.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeMedia.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeMedia.git",
                 "reference": "a8922a708226a32b6f821ba6bdf25c43abac3b87"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypemedia/hypejunction-hypemedia-a8922a708226a32b6f821ba6bdf25c43abac3b87-zip-dc1b43.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypemedia/hypejunction-hypemedia-a8922a708226a32b6f821ba6bdf25c43abac3b87-zip-dc1b43.zip",
                 "reference": "a8922a708226a32b6f821ba6bdf25c43abac3b87",
-                "shasum": "c2893a1d2c0410843511117297dabcee18e6bb24"
+                "shasum": "9b753cad73d2f05f6f0aab92147524bac868c472"
             },
             "require": {
                 "bower-asset/hammerjs": "^2.0",
@@ -3286,14 +3259,14 @@
             "version": "1.1.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeMentions.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeMentions.git",
                 "reference": "8a3c772018cb5fdf78ce8260f77139c3ec2721a5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeMentions/zipball/8a3c772018cb5fdf78ce8260f77139c3ec2721a5",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypementions/hypejunction-hypementions-8a3c772018cb5fdf78ce8260f77139c3ec2721a5-zip-31e174.zip",
                 "reference": "8a3c772018cb5fdf78ce8260f77139c3ec2721a5",
-                "shasum": ""
+                "shasum": "d87bce5872ac3728a44803ea3d6afc4ddf6389dd"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -3310,7 +3283,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -3337,14 +3309,14 @@
             "version": "1.1.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeMenus.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeMenus.git",
                 "reference": "5fd5955fae048e87ab729732e3137d24c869aea4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeMenus/zipball/5fd5955fae048e87ab729732e3137d24c869aea4",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypemenus/hypejunction-hypemenus-5fd5955fae048e87ab729732e3137d24c869aea4-zip-9e9ae0.zip",
                 "reference": "5fd5955fae048e87ab729732e3137d24c869aea4",
-                "shasum": ""
+                "shasum": "82b754c7a7723ab64ddebda49a8a8adf1b280a03"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -3358,7 +3330,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -3386,14 +3357,14 @@
             "version": "1.1.0",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeModerator.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeModerator.git",
                 "reference": "a5825a8eac81477f6242dad963f25a55537d0a4f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeModerator/zipball/a5825a8eac81477f6242dad963f25a55537d0a4f",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypemoderator/hypejunction-hypemoderator-a5825a8eac81477f6242dad963f25a55537d0a4f-zip-b6c6d3.zip",
                 "reference": "a5825a8eac81477f6242dad963f25a55537d0a4f",
-                "shasum": ""
+                "shasum": "1a885584210e7a6b9358fd45c6e6bc8a5777cadc"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -3408,7 +3379,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -3438,14 +3408,14 @@
             "version": "2.1.2",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeNotifications.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeNotifications.git",
                 "reference": "815cb5feca5edfc3abc95a73aedce1d5d2cd5c38"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypenotifications/hypejunction-hypenotifications-815cb5feca5edfc3abc95a73aedce1d5d2cd5c38-zip-b4edbc.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypenotifications/hypejunction-hypenotifications-815cb5feca5edfc3abc95a73aedce1d5d2cd5c38-zip-b4edbc.zip",
                 "reference": "815cb5feca5edfc3abc95a73aedce1d5d2cd5c38",
-                "shasum": "51e2f98be90b93ae29ab15476423a188c13aefad"
+                "shasum": "910a0a0655c23ebbafc73835190f093945d7be98"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -3495,14 +3465,14 @@
             "version": "3.2.2",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypePayments.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypePayments.git",
                 "reference": "8fa500615559f3a58f7a961d7ff61f8ba2a5859d"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypepayments/hypejunction-hypepayments-8fa500615559f3a58f7a961d7ff61f8ba2a5859d-zip-d50679.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypepayments/hypejunction-hypepayments-8fa500615559f3a58f7a961d7ff61f8ba2a5859d-zip-d50679.zip",
                 "reference": "8fa500615559f3a58f7a961d7ff61f8ba2a5859d",
-                "shasum": "58d0c859c9e4cefffd17ab4b387249f20c9fdb50"
+                "shasum": "a03891869e192bbd967da145ce5a008360254382"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -3546,14 +3516,14 @@
             "version": "1.1.2",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypePaypalPayments.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypePaypalPayments.git",
                 "reference": "676b9e185580835246404bca7126b1b168b3fe16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypePaypalPayments/zipball/676b9e185580835246404bca7126b1b168b3fe16",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypepaypalpayments/hypejunction-hypepaypalpayments-676b9e185580835246404bca7126b1b168b3fe16-zip-7561a4.zip",
                 "reference": "676b9e185580835246404bca7126b1b168b3fe16",
-                "shasum": ""
+                "shasum": "6b0bc1892eee81e9813b774bae5f4c0d019377f0"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -3569,7 +3539,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -3589,7 +3558,7 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypePaypalPayments/tree/master",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypePaypalPayments/tree/1.1.2",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypePaypalPayments/issues"
             },
             "time": "2018-07-09T08:27:49+00:00"
@@ -3599,14 +3568,14 @@
             "version": "1.1.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypePaypalSubscriptions.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypePaypalSubscriptions.git",
                 "reference": "1f36dec9e689973e7e24b6d4cc8119952d303dfe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypePaypalSubscriptions/zipball/1f36dec9e689973e7e24b6d4cc8119952d303dfe",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypepaypalsubscriptions/hypejunction-hypepaypalsubscriptions-1f36dec9e689973e7e24b6d4cc8119952d303dfe-zip-be02f1.zip",
                 "reference": "1f36dec9e689973e7e24b6d4cc8119952d303dfe",
-                "shasum": ""
+                "shasum": "349ad7625c42d6ce95896efaf0d57d61c75196f0"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -3620,7 +3589,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -3649,14 +3617,14 @@
             "version": "1.2.0",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypePaywall.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypePaywall.git",
                 "reference": "7a351bbfa898740b576253ea236b8c9cfe02ce0a"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypepaywall/hypejunction-hypepaywall-7a351bbfa898740b576253ea236b8c9cfe02ce0a-zip-9f7abe.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypepaywall/hypejunction-hypepaywall-7a351bbfa898740b576253ea236b8c9cfe02ce0a-zip-9f7abe.zip",
                 "reference": "7a351bbfa898740b576253ea236b8c9cfe02ce0a",
-                "shasum": "da05fab3ca5be4a12ba856592c790249e33dcb1a"
+                "shasum": "7660930a74e768f921a0f52a95c2c537615a0a3f"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -3696,17 +3664,17 @@
         },
         {
             "name": "hypejunction/hypepost",
-            "version": "1.7.0",
+            "version": "1.7.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypePost.git",
-                "reference": "1d81cb49b8eb58db24afe1cb782cb6ec3b9ebd0b"
+                "url": "git@github.com:hypeJunction/Elgg3-hypePost.git",
+                "reference": "2c462bc0ee7b8c088d454341ffa556bc328f31ff"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypepost/hypejunction-hypepost-1d81cb49b8eb58db24afe1cb782cb6ec3b9ebd0b-zip-5a58a6.tar",
-                "reference": "1d81cb49b8eb58db24afe1cb782cb6ec3b9ebd0b",
-                "shasum": "8886a785f8d78128de74bcb816ce1d82e24ce35d"
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypepost/hypejunction-hypepost-2c462bc0ee7b8c088d454341ffa556bc328f31ff-zip-0678e1.zip",
+                "reference": "2c462bc0ee7b8c088d454341ffa556bc328f31ff",
+                "shasum": "33b70d2987212aef81b9aa93e76175d1168d53fd"
             },
             "require": {
                 "bower-asset/parsleyjs": "~2.8",
@@ -3739,24 +3707,24 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypePost/tree/1.7.0",
-                "issues": "https://github.com/hypejunctionpro/Elgg3-hypePost/issues"
+                "source": "https://github.com/hypeJunction/Elgg3-hypePost/tree/1.7.1",
+                "issues": "https://github.com/hypeJunction/Elgg3-hypePost/issues"
             },
-            "time": "2018-08-21T14:06:10+00:00"
+            "time": "2019-06-04T11:51:20+00:00"
         },
         {
             "name": "hypejunction/hypeprofile",
-            "version": "1.4.11",
+            "version": "1.4.14",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeProfile.git",
-                "reference": "b37fccb850c046fc97094e51096a897a3fa2aa15"
+                "url": "git@github.com:hypeJunction/Elgg3-hypeProfile.git",
+                "reference": "51ec808e29fdb1892f033dc56899c6e223adbf4f"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeprofile/hypejunction-hypeprofile-b37fccb850c046fc97094e51096a897a3fa2aa15-zip-84a032.tar",
-                "reference": "b37fccb850c046fc97094e51096a897a3fa2aa15",
-                "shasum": "36d7983fc7a1327f0923607c619b08c015c20550"
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeprofile/hypejunction-hypeprofile-51ec808e29fdb1892f033dc56899c6e223adbf4f-zip-bb298c.zip",
+                "reference": "51ec808e29fdb1892f033dc56899c6e223adbf4f",
+                "shasum": "228b18728f2b4b86e5c69313c52252c9517fc9e1"
             },
             "require": {
                 "bjeavons/zxcvbn-php": "~0.3",
@@ -3786,24 +3754,24 @@
                 "users"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeProfile/tree/1.4.11",
-                "issues": "https://github.com/hypejunctionpro/Elgg3-hypeProfile/issues"
+                "source": "https://github.com/hypeJunction/Elgg3-hypeProfile/tree/1.4.14",
+                "issues": "https://github.com/hypeJunction/Elgg3-hypeProfile/issues"
             },
-            "time": "2018-08-21T14:13:56+00:00"
+            "time": "2019-06-04T13:03:14+00:00"
         },
         {
             "name": "hypejunction/hypesatis",
             "version": "1.0.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeSatis.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeSatis.git",
                 "reference": "039d62c261741c13d7eb32aeb34dfff8d3d4fe9d"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypesatis/hypejunction-hypesatis-039d62c261741c13d7eb32aeb34dfff8d3d4fe9d-zip-a21fb3.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypesatis/hypejunction-hypesatis-039d62c261741c13d7eb32aeb34dfff8d3d4fe9d-zip-a21fb3.zip",
                 "reference": "039d62c261741c13d7eb32aeb34dfff8d3d4fe9d",
-                "shasum": "3e9382e23935b86aa2ea3e0b2244a9d262150c5f"
+                "shasum": "4963bd56e022613e6406b70a36e7dd2a9a5c0f0c"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -3847,14 +3815,14 @@
             "version": "6.2.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeScraper.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeScraper.git",
                 "reference": "4e00d46eff44d9201c74fd1a776cb621f540a139"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypescraper/hypejunction-hypescraper-4e00d46eff44d9201c74fd1a776cb621f540a139-zip-43e991.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypescraper/hypejunction-hypescraper-4e00d46eff44d9201c74fd1a776cb621f540a139-zip-43e991.zip",
                 "reference": "4e00d46eff44d9201c74fd1a776cb621f540a139",
-                "shasum": "70a5b86c3b9ffbdc3aac4cca994c254846b7c81c"
+                "shasum": "e611e09d2e1834b9b5387a94e225706523879120"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -3898,14 +3866,14 @@
             "version": "1.2.0",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeShortcode.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeShortcode.git",
                 "reference": "62c8ff970ec1c2ecfd37d00cf9ea297c619f2e4c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeShortcode/zipball/62c8ff970ec1c2ecfd37d00cf9ea297c619f2e4c",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeshortcode/hypejunction-hypeshortcode-62c8ff970ec1c2ecfd37d00cf9ea297c619f2e4c-zip-72cfb2.zip",
                 "reference": "62c8ff970ec1c2ecfd37d00cf9ea297c619f2e4c",
-                "shasum": ""
+                "shasum": "d310dd8db7d0042d0d22e5fd553675c0cf1e8178"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -3920,7 +3888,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -3939,7 +3906,7 @@
                 "shortcode"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeShortcode/tree/master",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeShortcode/tree/1.2.0",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeShortcode/issues"
             },
             "time": "2018-06-29T20:01:04+00:00"
@@ -3949,14 +3916,14 @@
             "version": "1.0.3",
             "source": {
                 "type": "git",
-                "url": "https://github.com/hypeJunction/hypeShutdown.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeShutdown.git",
                 "reference": "7ecade5cec4031d94491c47afb26d475d9ac16d8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypeJunction/hypeShutdown/zipball/7ecade5cec4031d94491c47afb26d475d9ac16d8",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeshutdown/hypejunction-hypeshutdown-7ecade5cec4031d94491c47afb26d475d9ac16d8-zip-d3b9de.zip",
                 "reference": "7ecade5cec4031d94491c47afb26d475d9ac16d8",
-                "shasum": ""
+                "shasum": "60b467160225274c4136eb17a493a25d64d154c9"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -3971,7 +3938,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "GPL-2.0-only"
             ],
@@ -3988,6 +3954,10 @@
                 "plugin",
                 "shutdown"
             ],
+            "support": {
+                "source": "https://github.com/hypeJunction/hypeShutdown/tree/1.0.3",
+                "issues": "https://github.com/hypeJunction/hypeShutdown/issues"
+            },
             "time": "2018-04-20T08:01:10+00:00"
         },
         {
@@ -3995,14 +3965,14 @@
             "version": "1.0.0",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeSlider.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeSlider.git",
                 "reference": "d55677fb58fa81e8397f5b85e2cdf4fc5630015d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeSlider/zipball/d55677fb58fa81e8397f5b85e2cdf4fc5630015d",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeslider/hypejunction-hypeslider-d55677fb58fa81e8397f5b85e2cdf4fc5630015d-zip-24cb3e.zip",
                 "reference": "d55677fb58fa81e8397f5b85e2cdf4fc5630015d",
-                "shasum": ""
+                "shasum": "7ca27b88e4e1f61184c884c32f71b9136128e2a1"
             },
             "require": {
                 "bower-asset/slick-carousel": "^1.8",
@@ -4018,7 +3988,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -4045,14 +4014,14 @@
             "version": "1.1.5",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeSlug.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeSlug.git",
                 "reference": "12b2bc54fd3e4684f4c896fac46ac3dd76efcfb9"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeslug/hypejunction-hypeslug-12b2bc54fd3e4684f4c896fac46ac3dd76efcfb9-zip-5a0b80.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeslug/hypejunction-hypeslug-12b2bc54fd3e4684f4c896fac46ac3dd76efcfb9-zip-5a0b80.zip",
                 "reference": "12b2bc54fd3e4684f4c896fac46ac3dd76efcfb9",
-                "shasum": "061686e638ff6aa92dbc899c0758ff7ee97ea22f"
+                "shasum": "77f2cddd58221aad0806ed7bddb9bd8c20dbc55b"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -4094,14 +4063,14 @@
             "version": "1.0.2",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeStash.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeStash.git",
                 "reference": "8a4667dbceb987b3d698997ea8162cd765dff57f"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypestash/hypejunction-hypestash-8a4667dbceb987b3d698997ea8162cd765dff57f-zip-034807.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypestash/hypejunction-hypestash-8a4667dbceb987b3d698997ea8162cd765dff57f-zip-034807.zip",
                 "reference": "8a4667dbceb987b3d698997ea8162cd765dff57f",
-                "shasum": "8d6fe6f8a85957c94f2e07586a5980d0ae3862f9"
+                "shasum": "f488fef819aa768df316c06e3b503e3377873562"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -4142,14 +4111,14 @@
             "version": "1.0.0",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeStaticPages.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeStaticPages.git",
                 "reference": "5191392911d1d473e9634001d381d02d7a29c6dc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeStaticPages/zipball/5191392911d1d473e9634001d381d02d7a29c6dc",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypestaticpages/hypejunction-hypestaticpages-5191392911d1d473e9634001d381d02d7a29c6dc-zip-7897f2.zip",
                 "reference": "5191392911d1d473e9634001d381d02d7a29c6dc",
-                "shasum": ""
+                "shasum": "93144643e893a3627d8fcbff1292d7c66e488bc0"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -4164,7 +4133,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -4186,7 +4154,7 @@
                 "static"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeStaticPages/tree/master",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeStaticPages/tree/1.0.0",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeStaticPages/issues"
             },
             "time": "2018-06-29T20:10:13+00:00"
@@ -4196,14 +4164,14 @@
             "version": "1.3.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeStripePayments.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeStripePayments.git",
                 "reference": "d2e00ce3f0ff162250672ec3d92ddc5ab8e4b55f"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypestripepayments/hypejunction-hypestripepayments-d2e00ce3f0ff162250672ec3d92ddc5ab8e4b55f-zip-b0ccf7.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypestripepayments/hypejunction-hypestripepayments-d2e00ce3f0ff162250672ec3d92ddc5ab8e4b55f-zip-b0ccf7.zip",
                 "reference": "d2e00ce3f0ff162250672ec3d92ddc5ab8e4b55f",
-                "shasum": "0e565e82c37792f1aa33835413f0b8a0472e0f44"
+                "shasum": "4e4360fe986ebc5ef8516e310f37eac5c4b9248f"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -4247,14 +4215,14 @@
             "version": "1.1.3",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeStripeSubscriptions.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeStripeSubscriptions.git",
                 "reference": "519d9fe4899f45e39f795dd749933826b2f328ff"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypestripesubscriptions/hypejunction-hypestripesubscriptions-519d9fe4899f45e39f795dd749933826b2f328ff-zip-a07611.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypestripesubscriptions/hypejunction-hypestripesubscriptions-519d9fe4899f45e39f795dd749933826b2f328ff-zip-a07611.zip",
                 "reference": "519d9fe4899f45e39f795dd749933826b2f328ff",
-                "shasum": "67d7b5b2fad3b427f1335b5c9dc5124fcdc88d21"
+                "shasum": "9fc5640fbf0887a233363f6e3bb97d889c260217"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -4296,14 +4264,14 @@
             "version": "1.1.6",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeSubscriptions.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeSubscriptions.git",
                 "reference": "1c77a462d46c9956f6d244ddbe196725cad81bdb"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypesubscriptions/hypejunction-hypesubscriptions-1c77a462d46c9956f6d244ddbe196725cad81bdb-zip-c4ce12.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypesubscriptions/hypejunction-hypesubscriptions-1c77a462d46c9956f6d244ddbe196725cad81bdb-zip-c4ce12.zip",
                 "reference": "1c77a462d46c9956f6d244ddbe196725cad81bdb",
-                "shasum": "74d0df097ed9b6d87f641a3bfa0c998b8be0aaf9"
+                "shasum": "149a22e124bb34c45e6166344f4a0d75268b5e4f"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -4344,14 +4312,14 @@
             "version": "1.0.3",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeTheme.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeTheme.git",
                 "reference": "f1879dc8385c70b9a7dc0106a4326239c54dbc5e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeTheme/zipball/f1879dc8385c70b9a7dc0106a4326239c54dbc5e",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypetheme/hypejunction-hypetheme-f1879dc8385c70b9a7dc0106a4326239c54dbc5e-zip-6e460a.zip",
                 "reference": "f1879dc8385c70b9a7dc0106a4326239c54dbc5e",
-                "shasum": ""
+                "shasum": "2a1728f5c8afb28f39a34533f05f15a3c325cbac"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -4365,7 +4333,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -4393,14 +4360,14 @@
             "version": "1.1.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeTime.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeTime.git",
                 "reference": "e2e3db9848b4211929552e56b4472e77b5719839"
             },
             "dist": {
-                "type": "tar",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypetime/hypejunction-hypetime-e2e3db9848b4211929552e56b4472e77b5719839-zip-9f781a.tar",
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypetime/hypejunction-hypetime-e2e3db9848b4211929552e56b4472e77b5719839-zip-9f781a.zip",
                 "reference": "e2e3db9848b4211929552e56b4472e77b5719839",
-                "shasum": "7ba7d68b9a383e95758e5d1c20854d7ca05f3dc0"
+                "shasum": "7ea665f04500312ce1bfbb69d727a960dec511fe"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -4443,14 +4410,14 @@
             "version": "1.1.0",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeTrees.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeTrees.git",
                 "reference": "537773a367fa96c8314028c0712935eda3f965df"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeTrees/zipball/537773a367fa96c8314028c0712935eda3f965df",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypetrees/hypejunction-hypetrees-537773a367fa96c8314028c0712935eda3f965df-zip-c638a4.zip",
                 "reference": "537773a367fa96c8314028c0712935eda3f965df",
-                "shasum": ""
+                "shasum": "194262e9612173b718a7ea1a160f9ec41db67326"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -4460,7 +4427,6 @@
             "extra": {
                 "installer-name": "hypeTrees"
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -4479,7 +4445,7 @@
                 "trees"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeTrees/tree/master",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeTrees/tree/1.1.0",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeTrees/issues"
             },
             "time": "2018-06-29T20:15:45+00:00"
@@ -4489,14 +4455,14 @@
             "version": "1.1.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeTwig.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeTwig.git",
                 "reference": "6f8ed65d2feff6e6f7e959af2b3aa806a665b677"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeTwig/zipball/6f8ed65d2feff6e6f7e959af2b3aa806a665b677",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypetwig/hypejunction-hypetwig-6f8ed65d2feff6e6f7e959af2b3aa806a665b677-zip-870d7f.zip",
                 "reference": "6f8ed65d2feff6e6f7e959af2b3aa806a665b677",
-                "shasum": ""
+                "shasum": "8ab2c90b46b9be7b34ece7b36fdfb675b0660b72"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -4512,7 +4478,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -4531,7 +4496,7 @@
                 "twig"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeTwig/tree/master",
+                "source": "https://github.com/hypejunctionpro/Elgg3-hypeTwig/tree/1.1.1",
                 "issues": "https://github.com/hypejunctionpro/Elgg3-hypeTwig/issues"
             },
             "time": "2018-07-07T12:13:16+00:00"
@@ -4541,14 +4506,14 @@
             "version": "1.1.0",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeVue.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeVue.git",
                 "reference": "9606d69db510f571a22b4d447d5d51ba435fae7e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeVue/zipball/9606d69db510f571a22b4d447d5d51ba435fae7e",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypevue/hypejunction-hypevue-9606d69db510f571a22b4d447d5d51ba435fae7e-zip-7cb146.zip",
                 "reference": "9606d69db510f571a22b4d447d5d51ba435fae7e",
-                "shasum": ""
+                "shasum": "50ad0668b2ce422adde4f7ef425d3f6868e0fa85"
             },
             "require": {
                 "bower-asset/moment": "^2.22",
@@ -4563,7 +4528,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -4591,14 +4555,14 @@
             "version": "6.2.0",
             "source": {
                 "type": "git",
-                "url": "git@github.com:hypejunctionpro/Elgg3-hypeWall.git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeWall.git",
                 "reference": "58f23f1da9a2b3926defc63338f24348087cb3b4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hypejunctionpro/Elgg3-hypeWall/zipball/58f23f1da9a2b3926defc63338f24348087cb3b4",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypewall/hypejunction-hypewall-58f23f1da9a2b3926defc63338f24348087cb3b4-zip-a7fe02.zip",
                 "reference": "58f23f1da9a2b3926defc63338f24348087cb3b4",
-                "shasum": ""
+                "shasum": "030b08e3fb88e4fbed5115a16d903d46068e154a"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -4612,7 +4576,6 @@
                     "": "classes/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -4676,7 +4639,7 @@
                     "Imagine": "lib/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -4720,7 +4683,7 @@
                     "lib/password.php"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -4891,23 +4854,23 @@
         },
         {
             "name": "league/flysystem-memory",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem-memory.git",
-                "reference": "1cabecd08a8caec92a96a953c0d93b5ce83b07a2"
+                "reference": "d0e87477c32e29f999b4de05e64c1adcddb51757"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem-memory/zipball/1cabecd08a8caec92a96a953c0d93b5ce83b07a2",
-                "reference": "1cabecd08a8caec92a96a953c0d93b5ce83b07a2",
+                "url": "https://api.github.com/repos/thephpleague/flysystem-memory/zipball/d0e87477c32e29f999b4de05e64c1adcddb51757",
+                "reference": "d0e87477c32e29f999b4de05e64c1adcddb51757",
                 "shasum": ""
             },
             "require": {
                 "league/flysystem": "~1.0"
             },
             "require-dev": {
-                "phpunit/phpunit": "~4.1"
+                "phpunit/phpunit": "^5.7.10"
             },
             "type": "library",
             "extra": {
@@ -4920,7 +4883,7 @@
                     "League\\Flysystem\\Memory\\": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -4938,7 +4901,7 @@
                 "adapter",
                 "memory"
             ],
-            "time": "2016-06-04T03:57:11+00:00"
+            "time": "2019-05-30T21:34:13+00:00"
         },
         {
             "name": "league/oauth2-client",
@@ -5082,7 +5045,7 @@
                     "Michelf\\": "Michelf/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -5136,7 +5099,7 @@
                     "Misd\\Linkify\\": "src/Misd/Linkify"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5340,7 +5303,7 @@
                     "min/lib/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -5381,7 +5344,7 @@
                     "Cron\\": "src/Cron/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5404,9 +5367,7 @@
             "version": "1.5.4",
             "dist": {
                 "type": "tar",
-                "url": "https://registry.npmjs.org/at.js/-/at.js-1.5.4.tgz",
-                "reference": null,
-                "shasum": null
+                "url": "https://registry.npmjs.org/at.js/-/at.js-1.5.4.tgz"
             },
             "type": "npm-asset",
             "license": [
@@ -5418,9 +5379,7 @@
             "version": "5.5.1",
             "dist": {
                 "type": "tar",
-                "url": "https://registry.npmjs.org/dropzone/-/dropzone-5.5.1.tgz",
-                "reference": null,
-                "shasum": null
+                "url": "https://registry.npmjs.org/dropzone/-/dropzone-5.5.1.tgz"
             },
             "type": "npm-asset",
             "license": [
@@ -5432,9 +5391,7 @@
             "version": "3.0.15",
             "dist": {
                 "type": "tar",
-                "url": "https://registry.npmjs.org/formdata-polyfill/-/formdata-polyfill-3.0.15.tgz",
-                "reference": null,
-                "shasum": null
+                "url": "https://registry.npmjs.org/formdata-polyfill/-/formdata-polyfill-3.0.15.tgz"
             },
             "type": "npm-asset",
             "license": [
@@ -5446,9 +5403,7 @@
             "version": "0.3.1",
             "dist": {
                 "type": "tar",
-                "url": "https://registry.npmjs.org/jquery.caret/-/jquery.caret-0.3.1.tgz",
-                "reference": null,
-                "shasum": null
+                "url": "https://registry.npmjs.org/jquery.caret/-/jquery.caret-0.3.1.tgz"
             },
             "type": "npm-asset",
             "license": [
@@ -5460,9 +5415,7 @@
             "version": "1.5.1",
             "dist": {
                 "type": "tar",
-                "url": "https://registry.npmjs.org/leaflet/-/leaflet-1.5.1.tgz",
-                "reference": null,
-                "shasum": null
+                "url": "https://registry.npmjs.org/leaflet/-/leaflet-1.5.1.tgz"
             },
             "type": "npm-asset",
             "license": [
@@ -5474,9 +5427,7 @@
             "version": "2.0.5",
             "dist": {
                 "type": "tar",
-                "url": "https://registry.npmjs.org/leaflet.awesome-markers/-/leaflet.awesome-markers-2.0.5.tgz",
-                "reference": null,
-                "shasum": null
+                "url": "https://registry.npmjs.org/leaflet.awesome-markers/-/leaflet.awesome-markers-2.0.5.tgz"
             },
             "type": "npm-asset",
             "license": [
@@ -5488,9 +5439,7 @@
             "version": "1.4.1",
             "dist": {
                 "type": "tar",
-                "url": "https://registry.npmjs.org/leaflet.markercluster/-/leaflet.markercluster-1.4.1.tgz",
-                "reference": null,
-                "shasum": null
+                "url": "https://registry.npmjs.org/leaflet.markercluster/-/leaflet.markercluster-1.4.1.tgz"
             },
             "type": "npm-asset",
             "license": [
@@ -5502,9 +5451,7 @@
             "version": "1.2.6",
             "dist": {
                 "type": "tar",
-                "url": "https://registry.npmjs.org/svg-country-flags/-/svg-country-flags-1.2.6.tgz",
-                "reference": null,
-                "shasum": null
+                "url": "https://registry.npmjs.org/svg-country-flags/-/svg-country-flags-1.2.6.tgz"
             },
             "type": "npm-asset",
             "license": [
@@ -5516,9 +5463,7 @@
             "version": "2.0.0",
             "dist": {
                 "type": "tar",
-                "url": "https://registry.npmjs.org/weakmap-polyfill/-/weakmap-polyfill-2.0.0.tgz",
-                "reference": null,
-                "shasum": null
+                "url": "https://registry.npmjs.org/weakmap-polyfill/-/weakmap-polyfill-2.0.0.tgz"
             },
             "type": "npm-asset",
             "license": [
@@ -5548,7 +5493,7 @@
                     "FFmpeg": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5805,7 +5750,7 @@
                     "Invoker\\": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5871,7 +5816,7 @@
                     "src/DI/functions.php"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5910,7 +5855,7 @@
                     "PhpDocReader\\": "src/PhpDocReader"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5944,7 +5889,7 @@
                     "PhpExtended\\EmojiCheatSheet\\": "src"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5952,7 +5897,7 @@
                 {
                     "name": "Anastaszor",
                     "homepage": "https://gitlab.com/Anastaszor",
-                    "role": "Developer"
+                    "role": "developer"
                 }
             ],
             "description": "A wrapper around the WebpageFX/emoji-cheat-sheet.com emoji repository",
@@ -6066,7 +6011,7 @@
                     "Http\\Client\\Curl\\": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -6186,7 +6131,7 @@
                     "Http\\Adapter\\Guzzle6\\": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -6242,7 +6187,7 @@
                     "Http\\Client\\": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -6365,7 +6310,7 @@
                     "Http\\Message\\": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -6422,7 +6367,7 @@
                     "Http\\Message\\MultipartStream\\": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -6472,7 +6417,7 @@
                     "Http\\Promise\\": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -6521,7 +6466,7 @@
                     "Psr\\Cache\\": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -6567,7 +6512,7 @@
                     "Psr\\Container\\": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -6616,7 +6561,7 @@
                     "Psr\\Http\\Message\\": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -7014,7 +6959,7 @@
                     "Phinx\\": "src/Phinx"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -7168,7 +7113,7 @@
                     "SendGrid\\": "lib/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -7227,7 +7172,7 @@
                     "lib/helpers/stats/Stats.php"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -7243,23 +7188,23 @@
         },
         {
             "name": "sparkpost/sparkpost",
-            "version": "2.1.0",
+            "version": "2.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/SparkPost/php-sparkpost.git",
-                "reference": "0c45993ee9d68d47acbd04b241c8b24b8667f937"
+                "reference": "9e977d88119ec7309ff6319aa41d30b86b3fc7fc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/SparkPost/php-sparkpost/zipball/0c45993ee9d68d47acbd04b241c8b24b8667f937",
-                "reference": "0c45993ee9d68d47acbd04b241c8b24b8667f937",
+                "url": "https://api.github.com/repos/SparkPost/php-sparkpost/zipball/9e977d88119ec7309ff6319aa41d30b86b3fc7fc",
+                "reference": "9e977d88119ec7309ff6319aa41d30b86b3fc7fc",
                 "shasum": ""
             },
             "require": {
                 "php": "^5.6 || ^7.0",
                 "php-http/client-implementation": "^1.0",
                 "php-http/discovery": "^1.0",
-                "php-http/httplug": "^1.0",
+                "php-http/httplug": "^1.0 || ^2.0",
                 "php-http/message": "^1.0"
             },
             "require-dev": {
@@ -7277,7 +7222,7 @@
                     "SparkPost\\": "lib/SparkPost"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "Apache 2.0"
             ],
@@ -7287,7 +7232,7 @@
                 }
             ],
             "description": "Client library for interfacing with the SparkPost API.",
-            "time": "2017-01-10T14:29:09+00:00"
+            "time": "2019-06-04T20:00:21+00:00"
         },
         {
             "name": "stripe/stripe-php",
@@ -7389,7 +7334,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -7458,7 +7403,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -7514,7 +7459,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -7563,7 +7508,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -7716,7 +7661,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -8183,7 +8128,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -8253,7 +8198,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -8312,7 +8257,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -8418,7 +8363,7 @@
                     "TrueBV\\": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -8438,16 +8383,16 @@
         },
         {
             "name": "twig/twig",
-            "version": "v2.10.0",
+            "version": "v2.11.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "5240e21982885b76629552d83b4ebb6d41ccde6b"
+                "reference": "84a463403da1c81afbcedda8f0e788c78bd25a79"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/5240e21982885b76629552d83b4ebb6d41ccde6b",
-                "reference": "5240e21982885b76629552d83b4ebb6d41ccde6b",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/84a463403da1c81afbcedda8f0e788c78bd25a79",
+                "reference": "84a463403da1c81afbcedda8f0e788c78bd25a79",
                 "shasum": ""
             },
             "require": {
@@ -8458,12 +8403,12 @@
             "require-dev": {
                 "psr/container": "^1.0",
                 "symfony/debug": "^2.7",
-                "symfony/phpunit-bridge": "^3.4.19|^4.1.8"
+                "symfony/phpunit-bridge": "^3.4.19|^4.1.8|^5.0"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.10-dev"
+                    "dev-master": "2.11-dev"
                 }
             },
             "autoload": {
@@ -8501,7 +8446,7 @@
             "keywords": [
                 "templating"
             ],
-            "time": "2019-05-14T12:03:52+00:00"
+            "time": "2019-06-05T11:17:07+00:00"
         },
         {
             "name": "unsplash/unsplash",
@@ -8588,7 +8533,7 @@
                     "src/Htmlawed.php"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "LGPL-3.0"
             ],
@@ -8685,7 +8630,7 @@
                     "Zend\\Loader\\": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8747,7 +8692,7 @@
                     "Zend\\Mail\\": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8797,7 +8742,7 @@
                     "Zend\\Mime\\": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8851,7 +8796,7 @@
                     "Zend\\ServiceManager\\": "src/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8995,13 +8940,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/doctrine/instantiator/zipball/8e884e78f9f0eb1329e445619e04456e64d8051d",
                 "reference": "8e884e78f9f0eb1329e445619e04456e64d8051d",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": ">=5.3,<8.0-DEV"
@@ -9024,7 +8963,7 @@
                     "Doctrine\\Instantiator\\": "src/Doctrine/Instantiator/"
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -9055,13 +8994,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/myclabs/DeepCopy/zipball/3b8a3a99ba1f6a3952ac2747d989303cbd6b7a3e",
                 "reference": "3b8a3a99ba1f6a3952ac2747d989303cbd6b7a3e",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": "^5.6 || ^7.0"
@@ -9080,7 +9013,7 @@
                     "src/DeepCopy/deep_copy.php"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -9106,13 +9039,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/phar-io/manifest/zipball/2df402786ab5368a0169091f61a7c1e0eb6852d0",
                 "reference": "2df402786ab5368a0169091f61a7c1e0eb6852d0",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "ext-dom": "*",
@@ -9131,7 +9058,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -9167,13 +9094,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/phar-io/version/zipball/a70c0ced4be299a63d32fa96d9281d03e94041df",
                 "reference": "a70c0ced4be299a63d32fa96d9281d03e94041df",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": "^5.6 || ^7.0"
@@ -9184,7 +9105,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -9220,13 +9141,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/phpDocumentor/ReflectionCommon/zipball/21bdeb5f65d7ebf9f43b1b25d404f87deab5bfb6",
                 "reference": "21bdeb5f65d7ebf9f43b1b25d404f87deab5bfb6",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": ">=5.5"
@@ -9247,7 +9162,7 @@
                     ]
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -9331,13 +9246,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/phpDocumentor/TypeResolver/zipball/9c977708995954784726e25d0cd1dddf4e65b0f7",
                 "reference": "9c977708995954784726e25d0cd1dddf4e65b0f7",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": "^5.5 || ^7.0",
@@ -9360,7 +9269,7 @@
                     ]
                 }
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -9447,13 +9356,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/c89677919c5dd6d3b3852f230a663118762218ac",
                 "reference": "c89677919c5dd6d3b3852f230a663118762218ac",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "ext-dom": "*",
@@ -9484,7 +9387,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -9516,13 +9419,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/php-file-iterator/zipball/730b01bc3e867237eaac355e06a36b85dd93a8b4",
                 "reference": "730b01bc3e867237eaac355e06a36b85dd93a8b4",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3"
@@ -9538,7 +9435,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -9569,13 +9466,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/php-text-template/zipball/31f8b717e51d9a2afca6c9f046f5d69fc27c8686",
                 "reference": "31f8b717e51d9a2afca6c9f046f5d69fc27c8686",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3"
@@ -9586,7 +9477,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -9616,13 +9507,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/php-timer/zipball/3dcf38ca72b158baf0bc245e9184d3fdffa9c46f",
                 "reference": "3dcf38ca72b158baf0bc245e9184d3fdffa9c46f",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": "^5.3.3 || ^7.0"
@@ -9641,7 +9526,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -9671,13 +9556,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/php-token-stream/zipball/791198a2c6254db10131eecfe8c06670700904db",
                 "reference": "791198a2c6254db10131eecfe8c06670700904db",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "ext-tokenizer": "*",
@@ -9697,7 +9576,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -9870,13 +9749,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/code-unit-reverse-lookup/zipball/4419fcdb5eabb9caa61a27c7a1db532a6b55dd18",
                 "reference": "4419fcdb5eabb9caa61a27c7a1db532a6b55dd18",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": "^5.6 || ^7.0"
@@ -9895,7 +9768,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -9921,13 +9794,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/comparator/zipball/34369daee48eafb2651bea869b4b15d75ccc35f9",
                 "reference": "34369daee48eafb2651bea869b4b15d75ccc35f9",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": "^7.0",
@@ -9948,7 +9815,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -9991,13 +9858,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/diff/zipball/347c1d8b49c5c3ee30c7040ea6fc446790e6bddd",
                 "reference": "347c1d8b49c5c3ee30c7040ea6fc446790e6bddd",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": "^7.0"
@@ -10016,7 +9877,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -10049,13 +9910,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/cd0871b3975fb7fc44d11314fd1ee20925fce4f5",
                 "reference": "cd0871b3975fb7fc44d11314fd1ee20925fce4f5",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": "^7.0"
@@ -10074,7 +9929,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -10105,13 +9960,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/exporter/zipball/234199f4528de6d12aaa58b612e98f7d36adb937",
                 "reference": "234199f4528de6d12aaa58b612e98f7d36adb937",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": "^7.0",
@@ -10132,7 +9981,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -10178,13 +10027,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/global-state/zipball/e8ba02eed7bbbb9e59e43dedd3dddeff4a56b0c4",
                 "reference": "e8ba02eed7bbbb9e59e43dedd3dddeff4a56b0c4",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": "^7.0"
@@ -10206,7 +10049,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -10235,13 +10078,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/object-enumerator/zipball/7cfd9e65d11ffb5af41198476395774d4c8a84c5",
                 "reference": "7cfd9e65d11ffb5af41198476395774d4c8a84c5",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": "^7.0",
@@ -10262,7 +10099,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -10288,13 +10125,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/object-reflector/zipball/773f97c67f28de00d397be301821b06708fca0be",
                 "reference": "773f97c67f28de00d397be301821b06708fca0be",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": "^7.0"
@@ -10313,7 +10144,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -10339,13 +10170,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/recursion-context/zipball/5b0cd723502bac3b006cbf3dbf7a1e3fcefe4fa8",
                 "reference": "5b0cd723502bac3b006cbf3dbf7a1e3fcefe4fa8",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": "^7.0"
@@ -10364,7 +10189,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -10398,13 +10223,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/resource-operations/zipball/ce990bb21759f94aeafd30209e8cfcdfa8bc3f52",
                 "reference": "ce990bb21759f94aeafd30209e8cfcdfa8bc3f52",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": ">=5.6.0"
@@ -10420,7 +10239,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -10446,13 +10265,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/version/zipball/99732be0ddb3361e16ad77b68ba41efc8e979019",
                 "reference": "99732be0ddb3361e16ad77b68ba41efc8e979019",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://repo.packagist.com/hypejunction/dists/%package%/%version%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": ">=5.6"
@@ -10468,7 +10281,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://repo.packagist.com/hypejunction/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],

@@ -79,7 +79,8 @@
         },
         "fxp-asset": {
             "enabled": false
-        }
+        },
+        "preferred-install": "dist"
     },
     "repositories": [
         {
