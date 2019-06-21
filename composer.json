@@ -58,6 +58,8 @@
         "hypejunction/hypetwig": "~1.0",
         "hypejunction/hypevue": "~1.0",
         "hypejunction/hypewall": "~6.0",
+        "hypejunction/hypelanding": "~1.0",
+        "hypejunction/hypepostadmin": "~1.0",
 
         "symfony/options-resolver": "^3.3",
         "php-http/curl-client": "^1.7",
