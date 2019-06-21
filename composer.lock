@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "204c0b58974e7efe75605766c1f16368",
+    "content-hash": "cf5aa8cac043a242375e81720e3309b2",
     "packages": [
         {
             "name": "bjeavons/zxcvbn-php",
@@ -546,16 +546,16 @@
         },
         {
             "name": "composer/composer",
-            "version": "1.8.5",
+            "version": "1.8.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/composer.git",
-                "reference": "949b116f9e7d98d8d276594fed74b580d125c0e6"
+                "reference": "19b5f66a0e233eb944f134df34091fe1c5dfcc11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/composer/zipball/949b116f9e7d98d8d276594fed74b580d125c0e6",
-                "reference": "949b116f9e7d98d8d276594fed74b580d125c0e6",
+                "url": "https://api.github.com/repos/composer/composer/zipball/19b5f66a0e233eb944f134df34091fe1c5dfcc11",
+                "reference": "19b5f66a0e233eb944f134df34091fe1c5dfcc11",
                 "shasum": ""
             },
             "require": {
@@ -622,7 +622,7 @@
                 "dependency",
                 "package"
             ],
-            "time": "2019-04-09T15:46:48+00:00"
+            "time": "2019-06-11T13:03:06+00:00"
         },
         {
             "name": "composer/installers",
@@ -1546,16 +1546,16 @@
         },
         {
             "name": "elgg/elgg",
-            "version": "3.0.3",
+            "version": "3.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Elgg/Elgg.git",
-                "reference": "a4b04a745e4c79f82c8102321758097da53cde98"
+                "reference": "b46f78a6198b58fe7740c1cd0926798f7a6d0946"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Elgg/Elgg/zipball/a4b04a745e4c79f82c8102321758097da53cde98",
-                "reference": "a4b04a745e4c79f82c8102321758097da53cde98",
+                "url": "https://api.github.com/repos/Elgg/Elgg/zipball/b46f78a6198b58fe7740c1cd0926798f7a6d0946",
+                "reference": "b46f78a6198b58fe7740c1cd0926798f7a6d0946",
                 "shasum": ""
             },
             "require": {
@@ -1629,7 +1629,7 @@
                 "GPL-2.0-only"
             ],
             "description": "Elgg is an award-winning social networking engine, delivering the building blocks that enable businesses, schools, universities and associations to create their own fully-featured social networks and applications.",
-            "time": "2019-05-21T08:00:31+00:00"
+            "time": "2019-06-12T14:42:26+00:00"
         },
         {
             "name": "elgg/login_as",
@@ -2045,17 +2045,17 @@
         },
         {
             "name": "hypejunction/hypeactivity",
-            "version": "1.1.1",
+            "version": "1.2.0",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypeJunction/Elgg3-hypeActivity.git",
-                "reference": "c745ea56190b8b8757d63525e52f6b49fd3b4dfc"
+                "reference": "92cbbab185004df64ae9cff0dd3d41d2e35fb499"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeactivity/hypejunction-hypeactivity-c745ea56190b8b8757d63525e52f6b49fd3b4dfc-zip-2f3f98.zip",
-                "reference": "c745ea56190b8b8757d63525e52f6b49fd3b4dfc",
-                "shasum": "c6684e3e966514e29dd782bd2566f6b02cecb0e8"
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeactivity/hypejunction-hypeactivity-92cbbab185004df64ae9cff0dd3d41d2e35fb499-zip-c60ea1.zip",
+                "reference": "92cbbab185004df64ae9cff0dd3d41d2e35fb499",
+                "shasum": "10514833394dd9017607ecfb12923c3dfaf3d768"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -2087,10 +2087,10 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypeJunction/Elgg3-hypeActivity/tree/1.1.1",
+                "source": "https://github.com/hypeJunction/Elgg3-hypeActivity/tree/1.2.0",
                 "issues": "https://github.com/hypeJunction/Elgg3-hypeActivity/issues"
             },
-            "time": "2019-06-04T11:54:38+00:00"
+            "time": "2019-06-20T08:30:59+00:00"
         },
         {
             "name": "hypejunction/hypeajax",
@@ -2246,17 +2246,17 @@
         },
         {
             "name": "hypejunction/hypeblog",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypeJunction/Elgg3-hypeBlog.git",
-                "reference": "934aa9e0df319366aa92300c64c10dd63eb6a40c"
+                "reference": "cdffd57b47a199295c303b2e217e6934a997d25e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeblog/hypejunction-hypeblog-934aa9e0df319366aa92300c64c10dd63eb6a40c-zip-a924c8.zip",
-                "reference": "934aa9e0df319366aa92300c64c10dd63eb6a40c",
-                "shasum": "bc8cf0a8a2d695abfda6bc842454d2edad746cf9"
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeblog/hypejunction-hypeblog-cdffd57b47a199295c303b2e217e6934a997d25e-zip-a00d67.zip",
+                "reference": "cdffd57b47a199295c303b2e217e6934a997d25e",
+                "shasum": "19fbe5bcf3f9f1d184708118919d1ea7a638b99a"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -2289,10 +2289,10 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeBlog/tree/1.1.0",
-                "issues": "https://github.com/hypejunctionpro/Elgg3-hypeBlog/issues"
+                "source": "https://github.com/hypeJunction/Elgg3-hypeBlog/tree/master",
+                "issues": "https://github.com/hypeJunction/Elgg3-hypeBlog/issues"
             },
-            "time": "2018-06-29T18:26:12+00:00"
+            "time": "2019-06-20T14:15:56+00:00"
         },
         {
             "name": "hypejunction/hypebraintreepayments",
@@ -2792,17 +2792,17 @@
         },
         {
             "name": "hypejunction/hypeembed",
-            "version": "3.1.0",
+            "version": "3.1.2",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypeJunction/Elgg3-hypeEmbed.git",
-                "reference": "9faa5d7e3bc1d4f4d9c740432b52eb9e58e4a6ca"
+                "reference": "59a33f604a54aded9d601837459a0f312f1711e4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeembed/hypejunction-hypeembed-9faa5d7e3bc1d4f4d9c740432b52eb9e58e4a6ca-zip-4682ce.zip",
-                "reference": "9faa5d7e3bc1d4f4d9c740432b52eb9e58e4a6ca",
-                "shasum": "5b577d06e26234b49a9a53698c6c999191a81b9a"
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypeembed/hypejunction-hypeembed-59a33f604a54aded9d601837459a0f312f1711e4-zip-1de9b1.zip",
+                "reference": "59a33f604a54aded9d601837459a0f312f1711e4",
+                "shasum": "37b59255b9d0e824e815f61c43704b51e50fe6bd"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -2837,10 +2837,10 @@
                 "shortcode"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeEmbed/tree/3.1.0",
-                "issues": "https://github.com/hypejunctionpro/Elgg3-hypeEmbed/issues"
+                "source": "https://github.com/hypeJunction/Elgg3-hypeEmbed/tree/3.1.2",
+                "issues": "https://github.com/hypeJunction/Elgg3-hypeEmbed/issues"
             },
-            "time": "2018-06-29T19:02:54+00:00"
+            "time": "2019-06-20T10:22:42+00:00"
         },
         {
             "name": "hypejunction/hypegroups",
@@ -3093,6 +3093,55 @@
             "time": "2018-07-13T08:46:32+00:00"
         },
         {
+            "name": "hypejunction/hypelanding",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypeLanding.git",
+                "reference": "8f9db246a36cd6526eeb9b9716e156b32b9a3f66"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypelanding/hypejunction-hypelanding-8f9db246a36cd6526eeb9b9716e156b32b9a3f66-zip-f9d28b.zip",
+                "reference": "8f9db246a36cd6526eeb9b9716e156b32b9a3f66",
+                "shasum": "654759e22cd56087327a1fc50b6d2d9898957f36"
+            },
+            "require": {
+                "composer/installers": "~1.0",
+                "php": ">=7.0"
+            },
+            "type": "elgg-plugin",
+            "extra": {
+                "installer-name": "hypeLanding"
+            },
+            "autoload": {
+                "psr-0": {
+                    "": "classes/"
+                }
+            },
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "Ismayil Khayredinov",
+                    "email": "info@hypejunction.com"
+                }
+            ],
+            "description": "Landing page editor",
+            "homepage": "http://hypejunction.com",
+            "keywords": [
+                "elgg",
+                "plugin",
+                "theme"
+            ],
+            "support": {
+                "source": "https://github.com/hypeJunction/Elgg3-hypeLanding/tree/1.0.0",
+                "issues": "https://github.com/hypeJunction/Elgg3-hypeLanding/issues"
+            },
+            "time": "2019-06-20T09:13:56+00:00"
+        },
+        {
             "name": "hypejunction/hypelists",
             "version": "5.1.3",
             "source": {
@@ -3306,17 +3355,17 @@
         },
         {
             "name": "hypejunction/hypemenus",
-            "version": "1.1.1",
+            "version": "1.1.3",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypeJunction/Elgg3-hypeMenus.git",
-                "reference": "5fd5955fae048e87ab729732e3137d24c869aea4"
+                "reference": "c458121abe7df82c64d826bf2cf80179d6812165"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypemenus/hypejunction-hypemenus-5fd5955fae048e87ab729732e3137d24c869aea4-zip-9e9ae0.zip",
-                "reference": "5fd5955fae048e87ab729732e3137d24c869aea4",
-                "shasum": "82b754c7a7723ab64ddebda49a8a8adf1b280a03"
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypemenus/hypejunction-hypemenus-c458121abe7df82c64d826bf2cf80179d6812165-zip-7fc46b.zip",
+                "reference": "c458121abe7df82c64d826bf2cf80179d6812165",
+                "shasum": "5b90273bcbd79fe8f408a89b4d158d8d9ac4a3a1"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -3347,10 +3396,10 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeMenus/tree/1.1.1",
-                "issues": "https://github.com/hypejunctionpro/Elgg3-hypeMenus/issues"
+                "source": "https://github.com/hypeJunction/Elgg3-hypeMenus/tree/1.1.3",
+                "issues": "https://github.com/hypeJunction/Elgg3-hypeMenus/issues"
             },
-            "time": "2018-07-13T08:57:40+00:00"
+            "time": "2019-06-20T10:05:35+00:00"
         },
         {
             "name": "hypejunction/hypemoderator",
@@ -3614,17 +3663,17 @@
         },
         {
             "name": "hypejunction/hypepaywall",
-            "version": "1.2.0",
+            "version": "1.2.2",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypeJunction/Elgg3-hypePaywall.git",
-                "reference": "7a351bbfa898740b576253ea236b8c9cfe02ce0a"
+                "reference": "a80562deebd349691f7ab0b754076196dd4a6fc3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypepaywall/hypejunction-hypepaywall-7a351bbfa898740b576253ea236b8c9cfe02ce0a-zip-9f7abe.zip",
-                "reference": "7a351bbfa898740b576253ea236b8c9cfe02ce0a",
-                "shasum": "7660930a74e768f921a0f52a95c2c537615a0a3f"
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypepaywall/hypejunction-hypepaywall-a80562deebd349691f7ab0b754076196dd4a6fc3-zip-43dfea.zip",
+                "reference": "a80562deebd349691f7ab0b754076196dd4a6fc3",
+                "shasum": "b4e072b7eadf6004794951b0d71650c096736d79"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -3657,24 +3706,24 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypePaywall/tree/1.2.0",
-                "issues": "https://github.com/hypejunctionpro/Elgg3-hypePaywall/issues"
+                "source": "https://github.com/hypeJunction/Elgg3-hypePaywall/tree/1.2.2",
+                "issues": "https://github.com/hypeJunction/Elgg3-hypePaywall/issues"
             },
-            "time": "2018-11-12T10:27:18+00:00"
+            "time": "2019-06-14T16:23:32+00:00"
         },
         {
             "name": "hypejunction/hypepost",
-            "version": "1.7.1",
+            "version": "1.8.3",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypeJunction/Elgg3-hypePost.git",
-                "reference": "2c462bc0ee7b8c088d454341ffa556bc328f31ff"
+                "reference": "ffff609f4ed77f0a60f23ab58e7e3a0248f34294"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypepost/hypejunction-hypepost-2c462bc0ee7b8c088d454341ffa556bc328f31ff-zip-0678e1.zip",
-                "reference": "2c462bc0ee7b8c088d454341ffa556bc328f31ff",
-                "shasum": "33b70d2987212aef81b9aa93e76175d1168d53fd"
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypepost/hypejunction-hypepost-ffff609f4ed77f0a60f23ab58e7e3a0248f34294-zip-6afcda.zip",
+                "reference": "ffff609f4ed77f0a60f23ab58e7e3a0248f34294",
+                "shasum": "4f4c74fc7d3461af38cb460f1eeabf8235565504"
             },
             "require": {
                 "bower-asset/parsleyjs": "~2.8",
@@ -3707,10 +3756,61 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/hypeJunction/Elgg3-hypePost/tree/1.7.1",
+                "source": "https://github.com/hypeJunction/Elgg3-hypePost/tree/1.8.3",
                 "issues": "https://github.com/hypeJunction/Elgg3-hypePost/issues"
             },
-            "time": "2019-06-04T11:51:20+00:00"
+            "time": "2019-06-21T09:55:36+00:00"
+        },
+        {
+            "name": "hypejunction/hypepostadmin",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:hypeJunction/Elgg3-hypePostAdmin.git",
+                "reference": "b19b293cc743559eb062e84fb2709da99a9ea4d8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypepostadmin/hypejunction-hypepostadmin-b19b293cc743559eb062e84fb2709da99a9ea4d8-zip-4d8754.zip",
+                "reference": "b19b293cc743559eb062e84fb2709da99a9ea4d8",
+                "shasum": "b99b568f4c56b2225e6aa6db12a26c5c30bab6a9"
+            },
+            "require": {
+                "composer/installers": "~1.0",
+                "php": ">=7.0"
+            },
+            "type": "elgg-plugin",
+            "extra": {
+                "installer-name": "hypePostAdmin"
+            },
+            "autoload": {
+                "psr-0": {
+                    "": "classes/"
+                }
+            },
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "Ismayil Khayredinov",
+                    "email": "info@hypejunction.com"
+                }
+            ],
+            "description": "Admin interface for managing post schema",
+            "homepage": "http://hypejunction.com",
+            "keywords": [
+                "admin",
+                "elgg",
+                "plugin",
+                "post",
+                "schema"
+            ],
+            "support": {
+                "source": "https://github.com/hypeJunction/Elgg3-hypePostAdmin/tree/1.0.2",
+                "issues": "https://github.com/hypeJunction/Elgg3-hypePostAdmin/issues"
+            },
+            "time": "2019-06-21T10:30:10+00:00"
         },
         {
             "name": "hypejunction/hypeprofile",
@@ -4261,17 +4361,17 @@
         },
         {
             "name": "hypejunction/hypesubscriptions",
-            "version": "1.1.6",
+            "version": "1.2.3",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypeJunction/Elgg3-hypeSubscriptions.git",
-                "reference": "1c77a462d46c9956f6d244ddbe196725cad81bdb"
+                "reference": "7de79eabff568f44c83455bf8c1936296dc727d0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypesubscriptions/hypejunction-hypesubscriptions-1c77a462d46c9956f6d244ddbe196725cad81bdb-zip-c4ce12.zip",
-                "reference": "1c77a462d46c9956f6d244ddbe196725cad81bdb",
-                "shasum": "149a22e124bb34c45e6166344f4a0d75268b5e4f"
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypesubscriptions/hypejunction-hypesubscriptions-7de79eabff568f44c83455bf8c1936296dc727d0-zip-ca049e.zip",
+                "reference": "7de79eabff568f44c83455bf8c1936296dc727d0",
+                "shasum": "808405584e983fa9786059dd51dd19180022d26f"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -4302,24 +4402,24 @@
                 "subscriptions"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeSubscriptions/tree/1.1.6",
-                "issues": "https://github.com/hypejunctionpro/Elgg3-hypeSubscriptions/issues"
+                "source": "https://github.com/hypeJunction/Elgg3-hypeSubscriptions/tree/1.2.3",
+                "issues": "https://github.com/hypeJunction/Elgg3-hypeSubscriptions/issues"
             },
-            "time": "2018-11-12T10:33:00+00:00"
+            "time": "2019-06-14T16:24:39+00:00"
         },
         {
             "name": "hypejunction/hypetheme",
-            "version": "1.0.3",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "git@github.com:hypeJunction/Elgg3-hypeTheme.git",
-                "reference": "f1879dc8385c70b9a7dc0106a4326239c54dbc5e"
+                "reference": "0b99a284783975e271bcda16a81672ee322e34b4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://hypejunction.com/satis/packages/hypejunction/hypetheme/hypejunction-hypetheme-f1879dc8385c70b9a7dc0106a4326239c54dbc5e-zip-6e460a.zip",
-                "reference": "f1879dc8385c70b9a7dc0106a4326239c54dbc5e",
-                "shasum": "2a1728f5c8afb28f39a34533f05f15a3c325cbac"
+                "url": "https://hypejunction.com/satis/packages/hypejunction/hypetheme/hypejunction-hypetheme-0b99a284783975e271bcda16a81672ee322e34b4-zip-60c717.zip",
+                "reference": "0b99a284783975e271bcda16a81672ee322e34b4",
+                "shasum": "f8faea815b0317bb2c8535b8f443e1b169569941"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -4350,10 +4450,10 @@
                 "theme"
             ],
             "support": {
-                "source": "https://github.com/hypejunctionpro/Elgg3-hypeTheme/tree/1.0.3",
-                "issues": "https://github.com/hypejunctionpro/Elgg3-hypeTheme/issues"
+                "source": "https://github.com/hypeJunction/Elgg3-hypeTheme/tree/1.1.1",
+                "issues": "https://github.com/hypeJunction/Elgg3-hypeTheme/issues"
             },
-            "time": "2018-07-09T10:28:52+00:00"
+            "time": "2019-06-20T09:11:43+00:00"
         },
         {
             "name": "hypejunction/hypetime",
@@ -4770,16 +4870,16 @@
         },
         {
             "name": "league/flysystem",
-            "version": "1.0.52",
+            "version": "1.0.53",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "c5a5097156387970e6f0ccfcdf03f752856f3391"
+                "reference": "08e12b7628f035600634a5e76d95b5eb66cea674"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/c5a5097156387970e6f0ccfcdf03f752856f3391",
-                "reference": "c5a5097156387970e6f0ccfcdf03f752856f3391",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/08e12b7628f035600634a5e76d95b5eb66cea674",
+                "reference": "08e12b7628f035600634a5e76d95b5eb66cea674",
                 "shasum": ""
             },
             "require": {
@@ -4850,7 +4950,7 @@
                 "sftp",
                 "storage"
             ],
-            "time": "2019-05-20T20:21:14+00:00"
+            "time": "2019-06-18T20:09:29+00:00"
         },
         {
             "name": "league/flysystem-memory",
@@ -6722,12 +6822,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "4c0ba8a35f1f12dd9236452e9fae4346b0bf2a56"
+                "reference": "baeb6f512b5ec8f0fd58bf890082b179f985c5a4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/4c0ba8a35f1f12dd9236452e9fae4346b0bf2a56",
-                "reference": "4c0ba8a35f1f12dd9236452e9fae4346b0bf2a56",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/baeb6f512b5ec8f0fd58bf890082b179f985c5a4",
+                "reference": "baeb6f512b5ec8f0fd58bf890082b179f985c5a4",
                 "shasum": ""
             },
             "conflict": {
@@ -6822,7 +6922,10 @@
                 "shopware/shopware": "<5.3.7",
                 "silverstripe/cms": ">=3,<=3.0.11|>=3.1,<3.1.11",
                 "silverstripe/forum": "<=0.6.1|>=0.7,<=0.7.3",
-                "silverstripe/framework": ">=3,<3.6.7|>=3.7,<3.7.3|>=4,<4.0.7|>=4.1,<4.1.5|>=4.2,<4.2.4|>=4.3,<4.3.1",
+                "silverstripe/framework": ">=3,<3.6.7|>=3.7,<3.7.3|>=4,<4.4",
+                "silverstripe/graphql": ">=2,<2.0.5|>=3,<3.1.2",
+                "silverstripe/registry": ">=2.1,<2.1.2|>=2.2,<2.2.1",
+                "silverstripe/restfulserver": ">=1,<1.0.9|>=2,<2.0.4",
                 "silverstripe/userforms": "<3",
                 "simple-updates/phpwhois": "<=1",
                 "simplesamlphp/saml2": "<1.10.6|>=2,<2.3.8|>=3,<3.1.4",
@@ -6839,7 +6942,7 @@
                 "sylius/grid": ">=1,<1.1.19|>=1.2,<1.2.18|>=1.3,<1.3.13|>=1.4,<1.4.5|>=1.5,<1.5.1",
                 "sylius/grid-bundle": ">=1,<1.1.19|>=1.2,<1.2.18|>=1.3,<1.3.13|>=1.4,<1.4.5|>=1.5,<1.5.1",
                 "sylius/sylius": ">=1,<1.1.18|>=1.2,<1.2.17|>=1.3,<1.3.12|>=1.4,<1.4.4",
-                "symfony/cache": ">=3.2,<3.4.26|>=4,<4.1.12|>=4.2,<4.2.7",
+                "symfony/cache": ">=3.1,<3.4.26|>=4,<4.1.12|>=4.2,<4.2.7",
                 "symfony/dependency-injection": ">=2,<2.0.17|>=2.7,<2.7.51|>=2.8,<2.8.50|>=3,<3.4.26|>=4,<4.1.12|>=4.2,<4.2.7",
                 "symfony/form": ">=2.3,<2.3.35|>=2.4,<2.6.12|>=2.7,<2.7.50|>=2.8,<2.8.49|>=3,<3.4.20|>=4,<4.0.15|>=4.1,<4.1.9|>=4.2,<4.2.1",
                 "symfony/framework-bundle": ">=2,<2.3.18|>=2.4,<2.4.8|>=2.5,<2.5.2|>=2.7,<2.7.51|>=2.8,<2.8.50|>=3,<3.4.26|>=4,<4.1.12|>=4.2,<4.2.7",
@@ -6925,7 +7028,7 @@
                 }
             ],
             "description": "Prevents installation of composer packages with known security vulnerabilities: no API, simply require it",
-            "time": "2019-05-23T20:42:12+00:00"
+            "time": "2019-06-14T17:56:32+00:00"
         },
         {
             "name": "robmorgan/phinx",
@@ -7236,16 +7339,16 @@
         },
         {
             "name": "stripe/stripe-php",
-            "version": "v6.37.0",
+            "version": "v6.38.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stripe/stripe-php.git",
-                "reference": "6915bed0b988ca837f3e15a1f31517a6172a663a"
+                "reference": "8588b74aecd46ed5df3d97a132c922b020ca80bc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/6915bed0b988ca837f3e15a1f31517a6172a663a",
-                "reference": "6915bed0b988ca837f3e15a1f31517a6172a663a",
+                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/8588b74aecd46ed5df3d97a132c922b020ca80bc",
+                "reference": "8588b74aecd46ed5df3d97a132c922b020ca80bc",
                 "shasum": ""
             },
             "require": {
@@ -7288,7 +7391,7 @@
                 "payment processing",
                 "stripe"
             ],
-            "time": "2019-05-23T23:59:23+00:00"
+            "time": "2019-06-18T06:29:48+00:00"
         },
         {
             "name": "symfony/config",
@@ -8383,16 +8486,16 @@
         },
         {
             "name": "twig/twig",
-            "version": "v2.11.2",
+            "version": "v2.11.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "84a463403da1c81afbcedda8f0e788c78bd25a79"
+                "reference": "699ed2342557c88789a15402de5eb834dedd6792"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/84a463403da1c81afbcedda8f0e788c78bd25a79",
-                "reference": "84a463403da1c81afbcedda8f0e788c78bd25a79",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/699ed2342557c88789a15402de5eb834dedd6792",
+                "reference": "699ed2342557c88789a15402de5eb834dedd6792",
                 "shasum": ""
             },
             "require": {
@@ -8446,7 +8549,7 @@
             "keywords": [
                 "templating"
             ],
-            "time": "2019-06-05T11:17:07+00:00"
+            "time": "2019-06-18T15:37:11+00:00"
         },
         {
             "name": "unsplash/unsplash",
@@ -9283,16 +9386,16 @@
         },
         {
             "name": "phpspec/prophecy",
-            "version": "1.8.0",
+            "version": "1.8.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpspec/prophecy.git",
-                "reference": "4ba436b55987b4bf311cb7c6ba82aa528aac0a06"
+                "reference": "1927e75f4ed19131ec9bcc3b002e07fb1173ee76"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpspec/prophecy/zipball/4ba436b55987b4bf311cb7c6ba82aa528aac0a06",
-                "reference": "4ba436b55987b4bf311cb7c6ba82aa528aac0a06",
+                "url": "https://api.github.com/repos/phpspec/prophecy/zipball/1927e75f4ed19131ec9bcc3b002e07fb1173ee76",
+                "reference": "1927e75f4ed19131ec9bcc3b002e07fb1173ee76",
                 "shasum": ""
             },
             "require": {
@@ -9313,8 +9416,8 @@
                 }
             },
             "autoload": {
-                "psr-0": {
-                    "Prophecy\\": "src/"
+                "psr-4": {
+                    "Prophecy\\": "src/Prophecy"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -9342,7 +9445,7 @@
                 "spy",
                 "stub"
             ],
-            "time": "2018-08-05T17:53:17+00:00"
+            "time": "2019-06-13T12:50:23+00:00"
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -10298,16 +10401,16 @@
         },
         {
             "name": "theseer/tokenizer",
-            "version": "1.1.2",
+            "version": "1.1.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/theseer/tokenizer.git",
-                "reference": "1c42705be2b6c1de5904f8afacef5895cab44bf8"
+                "reference": "11336f6f84e16a720dae9d8e6ed5019efa85a0f9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/theseer/tokenizer/zipball/1c42705be2b6c1de5904f8afacef5895cab44bf8",
-                "reference": "1c42705be2b6c1de5904f8afacef5895cab44bf8",
+                "url": "https://api.github.com/repos/theseer/tokenizer/zipball/11336f6f84e16a720dae9d8e6ed5019efa85a0f9",
+                "reference": "11336f6f84e16a720dae9d8e6ed5019efa85a0f9",
                 "shasum": ""
             },
             "require": {
@@ -10334,7 +10437,7 @@
                 }
             ],
             "description": "A small library for converting tokenized PHP source code into XML and potentially other formats",
-            "time": "2019-04-04T09:56:43+00:00"
+            "time": "2019-06-13T22:48:21+00:00"
         }
     ],
     "aliases": [],
